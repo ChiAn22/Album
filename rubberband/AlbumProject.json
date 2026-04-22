@@ -1,0 +1,51 @@
+{
+  "Album": "rubberband",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "IKON RUBBER BAND 精选集",
+  "MeshType": "无CD",
+  "SideTitle": "IKON",
+  "Introduction": "iKon (Korean: 아이콘; stylized as iKON) is a South Korean boy band formed in 2015 by YG Entertainment. The lineup consists of six members: Jay, Song, Bobby, DK, Ju-ne, and Chan. Originally a seven-piece band, B.I departed from the group in June 2019.\n\nInitially introduced in the reality survival show WIN: Who is Next as \"Team B\", the group went on to appear in the 2014 reality survival show Mix & Match, which determined the final members of iKon. Their debut studio album Welcome Back (2015) debuted atop the South Korean Gaon Album Chart and featured the number-one singles \"My Type\", \"Apology\", and \"Dumb & Dumber\", as well as the top-ten singles \"Rhythm Ta\", \"Airplane\", and \"Anthem\". The album was a commercial success, selling over 260,000 copies in Asia, and its tracks collectively sold over 4.8 million copies, leading the group to receive numerous accolades from major Asian music award shows.\n\nFrom 2016 to 2017, iKon released the singles \"#WYD\" and \"New Kids: Begin\" and embarked on their first Asian tour and several Japanese tours. In 2018, their second studio album Return spawned the number-one single \"Love Scenario\", which topped the Gaon Digital Chart for a record-breaking six weeks. Their third EP, I Decide, was released on February 6, 2020. Their fourth EP, Flashback (2022), set a new personal record for highest one-day and one-week sales.\n\niKon departed YG Entertainment in December 2022, following the expiration of their contracts with the agency,[1] and signed with 143 Entertainment.[2] The group released their third studio album Take Off in May 2023.",
+  "CoverUrl": "https://i.pinimg.com/1200x/7d/29/09/7d290902990ccbfa8651d06643a352da.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/736x/de/9b/14/de9b14d2488aac890fc9d8499c916ae7.jpg",
+    "https://i.pinimg.com/736x/4e/42/4d/4e424d04573815bf8be4ea96762b5449.jpg",
+    "https://i.pinimg.com/736x/e5/b5/01/e5b501142ecf7af26fb20ec0f7e75d89.jpg",
+    "https://i.pinimg.com/1200x/cc/40/ea/cc40ea35134cbfde265d8df39abea491.jpg",
+    "https://i.pinimg.com/736x/15/89/fd/1589fd04231abbd8b4fce326da7938ed.jpg"
+  ],
+  "Discs": [
+    "Side A"
+  ],
+  "Songs": [
+    {
+      "fileName": "RUBBER BAND (고무줄다리기)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000qDj8y48Jmz8.ogg?guid=1410728448&vkey=702CBF347A484065907D740917F17701FA21EE7CB2A4E21D8B55738CA958A6D2E15977D462CAAD49314BE846D1E916D59BC9D6E16D27B06D__v21ea05db0&uin=3337423438&fromtag=120532&src=O400003NI7HU1i2VjO.ogg",
+      "format": "ogg",
+      "disc": "Side A"
+    },
+    {
+      "fileName": "LOVE SCENARIO",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003CNGR32XQkBi.ogg?guid=4009401380&vkey=46AB195D06C9B50A3EA560F3180FCA574B8B04F067DB5F0F6846C52AEB2697FECD558385D71E464CDC2EEA707133C50EB200CDED1DA4520E__v21563fe73&uin=3337423438&fromtag=120532&src=O400000Xcjdn11qMov.ogg",
+      "format": "ogg",
+      "disc": "Side A"
+    },
+    {
+      "fileName": "BEAUTIFUL",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002k8nHw42JkpZ.ogg?guid=7426008220&vkey=35EA14A33198E28FCD6FB964B9FE5312BE176730D26D885B0CA4810E2CE65F4AF31A098A211E0465B967802DA21EC8FCB43993E80B6C12F9__v2b967a6e&uin=3337423438&fromtag=120532&src=O4000022BlAh3ljcvg.ogg",
+      "format": "ogg",
+      "disc": "Side A"
+    },
+    {
+      "fileName": "MY TYPE",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003vWtYy1WDOkm.ogg?guid=4842363489&vkey=596709895EDB7CE14205F93258C5046DA56417B5AD7D3DCC02C9862CB76F74C5F64C9C1ABFB18548647768B95ABB73B8A31954B898468652__v2ba74049&uin=3337423438&fromtag=120532&src=O400003NXOCv2WGhkd.ogg",
+      "format": "ogg",
+      "disc": "Side A"
+    },
+    {
+      "fileName": "JERK (나쁜놈)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001qV0te1icQSd.ogg?guid=4763560203&vkey=95E8AAB27644B4CE2F318752CFA9ED493459778E6B16EEB807ED5EC38FEA0498464159696F9C7D2E44BF8008665B8BC43C30C01163C6FD21__v21e29716e&uin=3337423438&fromtag=120532&src=O400004bprs00NpJA1.ogg",
+      "format": "ogg",
+      "disc": "Side A"
+    }
+  ]
+}
