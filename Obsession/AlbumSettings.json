@@ -1,0 +1,79 @@
+{
+  "Album": "Obsession",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260420_2:24下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "OBSESSION - The 6th Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "EXO OBSESSION - The 6th Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/89/83/ca/8983cafd260e8901d6fec941fd3aaa35.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/7e/18/96/7e18960b64ee4a609be385196fd0eef9.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/e6/19/7b/e6197b33d0693c718071367b34d596c4.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/9f/4e/c7/9f4ec7249657f8027753a86c22935735.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/17/11/0c/17110cc242b2f44b45f279a55b58f24c.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/40/aa/8f/40aa8fa1fc05ca8e8dffdaf9b3d9d188.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/3c/19/c9/3c19c9ed89136e417175ba90fb907133.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/cf/08/28/cf082888f1f94ab470d98ae30019aa86.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/c7/69/68/c769685178381f619db39e9ca85077cb.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/41/87/7f/41877ff41e8e65ad13e2b6263f6ca2b2.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/97/f8/50/97f850fd52416cc62010267b8a18ed29.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/5a/f6/d4/5af6d423041797beed468c8be0912a5f.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/1d/95/f3/1d95f38bd1a2512b5fb595d2bd3e53b7.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "Obsession",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/Obsession.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Trouble",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/Trouble.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "化身 (Jekyll)",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/%E5%8C%96%E8%BA%AB%20(Jekyll).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "舞 (Groove)",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/%E8%88%9E%20(Groove).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Ya Ya Ya",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/Ya%20Ya%20Ya.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Baby You Are",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/Baby%20You%20Are.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Non Stop",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/Non%20Stop.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "日复一日 (Day After Day)",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/%E6%97%A5%E5%A4%8D%E4%B8%80%E6%97%A5%20(Day%20After%20Day).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "蝴蝶效应 (Butterfly Effect)",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/%E8%9D%B4%E8%9D%B6%E6%95%88%E5%BA%94%20(Butterfly%20Effect).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "嗜 (Obsession)",
+        "SongURL": "https://blue-bubbles.top/Album/Obsession/%E5%97%9C%20(Obsession).mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}

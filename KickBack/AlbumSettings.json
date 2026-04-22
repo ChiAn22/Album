@@ -1,0 +1,73 @@
+{
+  "Album": "KickBack",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "200426_1:56下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Kick Back - The 3rd Mini Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "WayV Kick Back - The 3rd Mini Album 精选集",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https://i.pinimg.com/1200x/7c/d8/37/7cd837a204fc164d23bd2954010cfef5.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/736x/26/31/5a/26315a9575a471b05d13c97e56855a25.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/736x/ea/58/a4/ea58a4ec1626651fd66a8d7ed62e5c5f.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/736x/87/93/f5/8793f5bd71cce80034a846e4a0aca7db.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/1200x/95/09/62/950962089256808104c8b481f4634edb.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/1200x/d7/f3/ed/d7f3ed60ae766170c8d9c4ca33b61ee8.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https://i.pinimg.com/1200x/d6/4d/01/d64d016ea254d55ae5b1939c8cadce17.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "秘境 (Kick Back)",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/%E7%A7%98%E5%A2%83%20(Kick%20Back).mp3",
+        "Disc": "Side A"
+      },
+      {
+        "SongTitle": "人偶 (Action Figure)",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/%E4%BA%BA%E5%81%B6%20(Action%20Figure).mp3",
+        "Disc": "Side A"
+      },
+      {
+        "SongTitle": "天空海 (Horizon)",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/%E5%A4%A9%E7%A9%BA%E6%B5%B7%20(Horizon).mp3",
+        "Disc": "Side A"
+      },
+      {
+        "SongTitle": "梦尽 (All For Love)",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/%E6%A2%A6%E5%B0%BD%20(All%20For%20Love).mp3",
+        "Disc": "Side A"
+      },
+      {
+        "SongTitle": "Good Time",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/Good%20Time.mp3",
+        "Disc": "Side A"
+      },
+      {
+        "SongTitle": "Good Life",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/Good%20Life.mp3",
+        "Disc": "Side B - Phantom"
+      },
+      {
+        "SongTitle": "Welcome To My Paradise",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/Welcome%20To%20My%20Paradise.mp3",
+        "Disc": "Side B - Phantom"
+      },
+      {
+        "SongTitle": "时间拼图 (Broken Love)",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/%E6%97%B6%E9%97%B4%E6%8B%BC%E5%9B%BE%20(Broken%20Love).mp3",
+        "Disc": "Side B - Phantom"
+      },
+      {
+        "SongTitle": "Diamonds Only",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/Diamonds%20Only.mp3",
+        "Disc": "Side B - Phantom"
+      },
+      {
+        "SongTitle": "Phantom",
+        "SongURL": "https://blue-bubbles.top/Album/KickBack/Phantom.mp3",
+        "Disc": "Side B - Phantom"
+      }
+    ]
+  }
+}

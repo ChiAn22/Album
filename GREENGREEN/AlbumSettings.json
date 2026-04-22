@@ -1,0 +1,31 @@
+{
+  "Album": "GREENGREEN",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260420_6:23下午",
+  "Created User": "函桉",
+  "Mesh Type": "有CD",
+  "SideTitle": "GREENGREEN",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "GREENGREEN",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/cf/31/b5/cf31b5450bffb1014fdc0bf2d1277f12.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/c2/03/64/c203646b4c3d69d00254b038a5109856.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/39/a8/2e/39a82e5ca0a823735f600fb4dbceb5c5.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/01/6b/ee/016bee01f1c1e2cb2db88b9fed0d2aef.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/0a/22/b6/0a22b61afaf5d8776ec82e474d078f47.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "REDRED",
+        "SongURL": "https://blue-bubbles.top/Album/GREENGREEN/REDRED.mp3",
+        "Disc": "Side A - GREENGREEN"
+      },
+      {
+        "SongTitle": "YOUNGCREATORCREW",
+        "SongURL": "https://blue-bubbles.top/Album/GREENGREEN/YOUNGCREATORCREW.mp3",
+        "Disc": "Side A - GREENGREEN"
+      }
+    ]
+  }
+}

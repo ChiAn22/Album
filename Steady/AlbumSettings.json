@@ -1,0 +1,93 @@
+{
+  "Album": "Steady",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260420_6:59下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Steady - The 1st Mini Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "Steady - The 1st Mini Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/91/a1/31/91a131260cb2404ba4c607da1e327677.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/49/a1/bf/49a1bfea33e0fe9dc3ab399ad29edf7d.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/cf/2d/95/cf2d95e2428919cf7905e4571871e62e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/d8/e3/e0/d8e3e0d0856d8c869d63df8dbbf82d75.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/00/ea/2d/00ea2db45adef77b8e37d0647bb6e01c.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/cb/06/f5/cb06f5661223aaaf0a360d90b97a3dfc.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/29/5f/ff/295fff2e33807e7318921a777d72f900.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "Steady",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Steady.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "3 Minutes",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/3%20Minutes.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "Dunk Shot",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Dunk%20Shot.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "On & On",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/On%20%26%20On.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "Supercute",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Supercute.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "Skate",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Skate.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "Hands Up (Korean Ver",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Hands%20Up%20(Korean%20Ver.mp3",
+        "Disc": ""
+      },
+      {
+        "SongTitle": "Melt Inside My Pocket",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Melt%20Inside%20My%20Pocket.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "1000",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/1000.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "Surf",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Surf.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "Baby Blue",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Baby%20Blue.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "ZONE",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/ZONE.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "Good Morning",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Good%20Morning.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      },
+      {
+        "SongTitle": "Miracle",
+        "SongURL": "https://blue-bubbles.top/Album/Steady/Miracle.mp3",
+        "Disc": "Side B - Melt Inside My Pocket"
+      }
+    ]
+  }
+}

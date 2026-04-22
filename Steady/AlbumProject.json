@@ -1,0 +1,107 @@
+{
+  "Album": "Steady",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Steady - The 1st Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "Steady - The 1st Mini Album",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/91/a1/31/91a131260cb2404ba4c607da1e327677.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/736x/49/a1/bf/49a1bfea33e0fe9dc3ab399ad29edf7d.jpg",
+    "https://i.pinimg.com/736x/cf/2d/95/cf2d95e2428919cf7905e4571871e62e.jpg",
+    "https://i.pinimg.com/736x/d8/e3/e0/d8e3e0d0856d8c869d63df8dbbf82d75.jpg",
+    "https://i.pinimg.com/1200x/00/ea/2d/00ea2db45adef77b8e37d0647bb6e01c.jpg",
+    "https://i.pinimg.com/736x/cb/06/f5/cb06f5661223aaaf0a360d90b97a3dfc.jpg",
+    "https://i.pinimg.com/1200x/29/5f/ff/295fff2e33807e7318921a777d72f900.jpg"
+  ],
+  "Discs": [
+    "Side A - Steady",
+    "Side B - Melt Inside My Pocket"
+  ],
+  "Songs": [
+    {
+      "fileName": "Steady",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003uFpnP3AU9Mx.ogg?guid=5165663184&vkey=1132155939E213F08F8694DBC60964F0F9FA19ACB18F3EDF4099CF10ACFD4508410D8B0971FAB70B9736AD2BEFF03F2F259ADA0A5AEB0637__v2b9abbfa&uin=3337423438&fromtag=120532&src=O4000019C1RY00zpOx.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "3 Minutes",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000039g7JF0EHJRR.ogg?guid=4243317357&vkey=E1A54187000D508D26C2B71DEFEB1182C307C17474A1FB38A6B1B284518B2BFC88AC4AA2D0D07B63D0A39B0CD933AFBE0EFF18FFA45C05D8__v2b9abcce&uin=3337423438&fromtag=120532&src=O400002egcLF3Z6g5F.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Dunk Shot",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000011Um6t4cOgH7.ogg?guid=9211772616&vkey=1DA1FD09D54E86A46FCC58EF7D56E6D58311F0F231CC7F6E75C4CB0F608B40D506B059E058457E656093BE83BEED32AF64FEDE75B5564A38__v2b9abbfa&uin=3337423438&fromtag=120532&src=O400002SBzSW3A3j4C.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "On & On",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002IrWIJ13YESj.ogg?guid=7022793516&vkey=461B33A1B9F0C4EAE3464823B5383E3670F90099CBBA636D28D29CF15A83F847304D80EEF671DF3FCDE2DC6A3493E451E65B1177ACDD21AE__v2b9abdc1&uin=3337423438&fromtag=120532&src=O400002dG2X80DAG3z.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Supercute",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001RgOKC1lBnP6.ogg?guid=1242614848&vkey=40C3C33B762950F65AEB6D006E64718D9BEDF8DDB67BD6217C01D4AEE3A8093F92F68FAFE949A0616038CDD39B4330B341A716B96FA4897C__v21e2a1814&uin=3337423438&fromtag=120532&src=O400003yI6OV47TZtH.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Skate",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000GOabO4E5DmQ.ogg?guid=5359455483&vkey=F641106A1A9D7D6DA112C806FB70BDC3C9D16C01657F2527CF6C6DA7FFBF7400D340929C8044621CE1CD7D1EEA2AB2394587080957ECDA4C__v2b94c523&uin=3337423438&fromtag=120532&src=O400002PO3Jz03QANP.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Hands Up (Korean Ver",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003blT034TcnLf.ogg?guid=6357850106&vkey=D4535E604EABD31EE421A2F6B8CFE2695019F6185BC95DC2E4255E0DF5BB1BCC4BD5E495FB85D72F664717B856C366035B23D83E20AB97CB__v2b94c187&uin=3337423438&fromtag=120532&src=O4000012mPJJ3AEcuD.ogg",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Melt Inside My Pocket",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003TXR3J0X0RaA.ogg?guid=7061816354&vkey=603558A4205C32D020812FB9A305A7EA3117231E6DEC3F505BDFF6318404006BD5A0A17277AB347DBC41B59CB9DC4049B0AF6487C23794CE__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "1000",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002XkzZb0UO342.ogg?guid=4614805230&vkey=8C931A9D4B72AA15D5AD87BB56A213E7B713F5D7EFD3C70C2EADFDBDF87A660566885B3B8C663258D9CBF29A140EFE04C78FAA4E39599C96__v2b94c496&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "Surf",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004FMDS20T4YLY.ogg?guid=680307312&vkey=924D9378CFD67FC7E9732FCA2066A3FC9CEF19C43FE7D4B22AC028D210DCA21E2FC99685BE534CFBF67025A4A12A19F44D9142D1E59DD26C__v2b94c187&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "Baby Blue",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003HfQM30p2sdc.ogg?guid=7771677088&vkey=D3DDA851AD4DBC9BF7865B3F724D6E9185084075353E58790A1E99EA882F9059106FECDFE55506D6F2F4838B9D733B18A7517E7FBC8C5645__v2b94c187&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "ZONE",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004VpiOt3vueGR.ogg?guid=2297551864&vkey=B45F6B6DDEC447B52827421FD710ED2B3B30108949F8940E41A5959E309BFF9E8606F511A208A45C5678EC24ADC0D4A31C96E007DC3C036D__v2b9ab83b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "Good Morning",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003JNJFY4Hlx4V.ogg?guid=3588271092&vkey=6A21B78AA5890421ACA24B33563BE897C83A9C83EF9CC6758C614D638F3FC298F46E867A445753871A9D8AE8A166EFC1FEE4E2037EF8678A__v2b94c496&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    },
+    {
+      "fileName": "Miracle",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000046Xt3p3kMVP1.ogg?guid=3592213549&vkey=311B3EDB590A15D5DC275935BCCE86593CCB641545BA642B00F66F576A8F30376B71774A6F9152C0A15F5D1E635A63D18FC503135AAABF8D__v2b94c187&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - Melt Inside My Pocket"
+    }
+  ]
+}

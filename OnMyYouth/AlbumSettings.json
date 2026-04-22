@@ -1,0 +1,72 @@
+{
+  "Album": "OnMyYouth",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260422_12:42下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "On My Youth - The 2nd Album",
+  "Introduction": "On My Youth is the second studio album by the Chinese boy band WayV. It was released digitally on November 1, 2023, and physically on November 8, 2023, by Label V and SM Entertainment. It consists of ten songs, including the English version of the title track. Member Kun also participated in lyric writing for the track \"Be Alright\".\n\nIn May 2023, SM Entertainment announced that Lucas, who had been suspended from the WayV since 2021, would be departing from NCT and WayV to pursue his solo endeavors, officially turning WayV into a sextet. From August to September 2023, WayV joined NCT in their three-day stadium concerts in South Korea and Japan, titled NCT Nation: To The World. On October 16, 2023, WayV announced that they would release their second studio album, On My Youth, on November 8, eleven months since their latest and fourth extended play (EP), Phantom. The album consists of ten tracks and was released on streaming platforms on November 1.\n\nIn an interview with USA Today, member YangYang explained that \"The album's diverse track range also allowed the members to challenge themselves.  They tried different genres they hadn't previously done, widening the scope of WayV's abilities.\"",
+  "Form": {
+    "AlbumTitle": "On My Youth - The 2nd Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/98/c9/ef/98c9ef1477dd6cb680fcbb3c410b1f81.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/e6/91/ec/e691ec08e206eb5569c8a9e2168ee282.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/64/e4/d9/64e4d984e208ad7ec6ac5c6cafa06d76.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/32/bb/e1/32bbe193c538571da48086f58c89f361.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/cd/23/bb/cd23bb89d57863b30442f0b97696f46b.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/d1/26/53/d1265359cbcf39b88c5976f7d36129e5.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "On My Youth (遗憾效应)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/On%20My%20Youth%20(%E9%81%97%E6%86%BE%E6%95%88%E5%BA%94).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Poppin' Love (心动预告)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/Poppin'%20Love%20(%E5%BF%83%E5%8A%A8%E9%A2%84%E5%91%8A).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Ain't No Thang",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/Ain't%20No%20Thang.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "No One But You",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/No%20One%20But%20You.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "INVINCIBLE (极限)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/INVINCIBLE%20(%E6%9E%81%E9%99%90).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "RODEO (冒险行动)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/RODEO%20(%E5%86%92%E9%99%A9%E8%A1%8C%E5%8A%A8).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Moonlight (新月)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/Moonlight%20(%E6%96%B0%E6%9C%88).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "心之所向 (Lighthouse)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91%20(Lighthouse).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Be Alright (未来电台)",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/Be%20Alright%20(%E6%9C%AA%E6%9D%A5%E7%94%B5%E5%8F%B0).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "On My Youth (English Ver",
+        "SongURL": "https://blue-bubbles.top/Album/OnMyYouth/On%20My%20Youth%20(English%20Ver.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}

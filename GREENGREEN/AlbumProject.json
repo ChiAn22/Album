@@ -1,0 +1,32 @@
+{
+  "Album": "GREENGREEN",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "GREENGREEN",
+  "MeshType": "有CD",
+  "SideTitle": "GREENGREEN",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/cf/31/b5/cf31b5450bffb1014fdc0bf2d1277f12.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/736x/c2/03/64/c203646b4c3d69d00254b038a5109856.jpg",
+    "https://i.pinimg.com/736x/39/a8/2e/39a82e5ca0a823735f600fb4dbceb5c5.jpg",
+    "https://i.pinimg.com/736x/01/6b/ee/016bee01f1c1e2cb2db88b9fed0d2aef.jpg",
+    "https://i.pinimg.com/1200x/0a/22/b6/0a22b61afaf5d8776ec82e474d078f47.jpg"
+  ],
+  "Discs": [
+    "Side A - GREENGREEN"
+  ],
+  "Songs": [
+    {
+      "fileName": "REDRED",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003VGG7D21LjIG.ogg?guid=9681607820&vkey=3AE789A141D7C2E6D13E7F4BABD1DDF568482BA918E1127722F8A281ADFEB45450336C89708CAB58DE8BE922A85A14105C304E668E93C18C__v21e2a1eab&uin=3337423438&fromtag=120532&src=O400004MPXi64WH6kN.ogg",
+      "format": "ogg",
+      "disc": "Side A - GREENGREEN"
+    },
+    {
+      "fileName": "YOUNGCREATORCREW",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000mnIQb4BFl9B.ogg?guid=6010407433&vkey=EE8810E1ECCA90D0B6021D868BCF7B916EDD86D34DD6BAED4FF279B1C1BBA0EAC91F04C7F380CCEB6426C065B77B813781DDA57079340AA6__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side A - GREENGREEN"
+    }
+  ]
+}

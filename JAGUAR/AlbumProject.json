@@ -1,0 +1,74 @@
+{
+  "Album": "JAGUAR",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Victoria Monét JAGUAR (Explicit)",
+  "MeshType": "有CD",
+  "SideTitle": "JAGUAR (Explicit)",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/44/ee/ca/44eecae01b8f5c010ee033f2c42b7e0c.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/1200x/9f/06/8d/9f068d4cbdea0accb88106fc11028c41.jpg",
+    "https://i.pinimg.com/736x/f6/81/6f/f6816fcdd398262900be7688c8bce56a.jpg",
+    "https://i.pinimg.com/736x/e8/2e/13/e82e13dec5f085a528a613d1706143de.jpg",
+    "https://i.pinimg.com/1200x/20/90/18/20901873422ffd3108ee14d0f8268f5f.jpg"
+  ],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Moment (Explicit)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000001smgs0UeETq.ogg?guid=67404076&vkey=477034D04DE243CAA2EDAC20A4DDC1DC99505E057FEC293F45B796254996EBBD5D287019C9036565E0B8E2347C13A7DABAE6BA0968439DAF__v2b9abdc1&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Big Boss (Interlude)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004e33FD1rYanG.ogg?guid=1070010408&vkey=7D938E98F797C21388EEE7DBAF887375869A275392B1F952A66A5009806053B419B177FF9E151D6B410133F77664EE202915235C7D3DE147__v21e2a1834&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Dive (Explicit)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003gEVTr3adBbD.ogg?guid=1589095812&vkey=C0F64058D0202D0A6104B1F8D243C3491982D0116BE992DD12E505133DE7DE6793C95B08B1E4198579008DE157951ECE50D44D47BE7AF1C4__v2b9ab83b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "We Might Even Be Falling In Love (Interlude)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004bXJg01jf1ZE.ogg?guid=8632791765&vkey=2FA8B171016961A1FA97DCB3317529ECADBA742B18AAC7AC80F83312BFB4387FC697C76F3CDA3077FB5638931F061DEC69351730D4340A1F__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Jaguar",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002WJDr63PSXrK.ogg?guid=6696947424&vkey=6BDE000DE00FFFD700D41441A7DDD96D73A63B186805DCCD8458826D644213CAAB61E2921442FCFB2A516ABE65E67980DF1361687197A54B__v2b9abdc1&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Experience",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004LwZVk45FMgA.ogg?guid=3437676560&vkey=CC7EBC8974A76A18F7140862324D2586D012BBDC523A9758C0EEE65CE73A6F9AB37598DD9A7A2A571477D0E1F8ECABEDCFC0A0F3F3F976BF__v21e2a1814&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Ass Like That (Explicit)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001rIig24Ovhhc.ogg?guid=1443920664&vkey=D7AA4E4E903260B60E4811E486CCA3A406C765B531547064083248B3CCFDAB399FCBC47BBEF75348E12378D017C40E03A93106C2164B6BCC__v2b94c187&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Go There With You",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003wvhkH3sUEoO.ogg?guid=8910691502&vkey=B594D2032FB92FF0879A9EAF5D2818F72A3935B377F05F2F488FA50D12891C9B81C15A4ADE0B3351CA50418825A18C172B0B4C4DB6EE2570__v2b9ab017&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    },
+    {
+      "fileName": "Touch Me",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000w93LQ29GWXB.ogg?guid=9292878960&vkey=59AD23B40F7AB768288AD0CA3CCE1594686C62D603F80C5AC34DB159BE660140FA40CEA848799C6D6A96156F55916C9D63D278D71D106324__v2b9ab50b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": ""
+    }
+  ]
+}
