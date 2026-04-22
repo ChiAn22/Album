@@ -1,0 +1,69 @@
+{
+  "Album": "cherrybomb",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260422_7:28下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/96/37/85/963785f0368f9ba8174471a2c7890507.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/1d/c5/51/1dc551c1d347c97e967bcc031b95ff8c.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/d5/05/0a/d5050a25599612636d4a47b9c62e2781.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/cd/9c/18/cd9c186348b91b2cda9a2e02dc56b6d0.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/ab/16/48/ab164831a74d7765816f916233abc98a.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/27/b3/8c/27b38cf615de50024c8978cf4e74ec35.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/af/84/69/af8469872bf5e7d1342bea1582f38b87.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/b5/5c/1e/b55c1ef67fa09727a84c15fea8d97080.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/2f/f8/a7/2ff8a775dc6e4e82933537d1af6b2d70.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/9e/09/da/9e09da7c30be55d916c84472640989f3.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/92/15/28/9215283e11fb1e3981dd4eca7d1a4100.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/8b/ce/3c/8bce3ca3a2ffe097cb6a33cf85579a84.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/ad/c1/7c/adc17ca220779c07f2a298e0853c1c3e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/dc/46/94/dc4694acf659f7444dbd2a4cacb08307.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/de/01/d0/de01d0050a542dd1c17997621d082141.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/d9/d4/0f/d9d40f513a6bdd84a1bb6ffb0b66df7e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/67/e5/80/67e5800bcbb60bcecadfe01962a64c03.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/7c/a3/6b/7ca36ba3324113e9b35435ce67260493.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "Cherry Bomb (樱桃炸弹)",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Cherry%20Bomb%20(%E6%A8%B1%E6%A1%83%E7%82%B8%E5%BC%B9).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Running 2 U",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Running%202%20U.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "0 Mile",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/0%20Mile.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Sun & Moon (日月)",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Sun%20%26%20Moon%20(%E6%97%A5%E6%9C%88).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Whiplash",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Whiplash.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Summer 127",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Summer%20127.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Cherry Bomb (樱桃炸弹) (Performance Ver",
+        "SongURL": "https://blue-bubbles.top/Album/cherrybomb/Cherry%20Bomb%20(%E6%A8%B1%E6%A1%83%E7%82%B8%E5%BC%B9)%20(Performance%20Ver.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
