@@ -1,0 +1,75 @@
+{
+  "Album": "cherrybomb",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/96/37/85/963785f0368f9ba8174471a2c7890507.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/736x/1d/c5/51/1dc551c1d347c97e967bcc031b95ff8c.jpg",
+    "https://i.pinimg.com/1200x/d5/05/0a/d5050a25599612636d4a47b9c62e2781.jpg",
+    "https://i.pinimg.com/1200x/cd/9c/18/cd9c186348b91b2cda9a2e02dc56b6d0.jpg",
+    "https://i.pinimg.com/1200x/ab/16/48/ab164831a74d7765816f916233abc98a.jpg",
+    "https://i.pinimg.com/1200x/27/b3/8c/27b38cf615de50024c8978cf4e74ec35.jpg",
+    "https://i.pinimg.com/1200x/af/84/69/af8469872bf5e7d1342bea1582f38b87.jpg",
+    "https://i.pinimg.com/1200x/b5/5c/1e/b55c1ef67fa09727a84c15fea8d97080.jpg",
+    "https://i.pinimg.com/736x/2f/f8/a7/2ff8a775dc6e4e82933537d1af6b2d70.jpg",
+    "https://i.pinimg.com/1200x/9e/09/da/9e09da7c30be55d916c84472640989f3.jpg",
+    "https://i.pinimg.com/1200x/92/15/28/9215283e11fb1e3981dd4eca7d1a4100.jpg",
+    "https://i.pinimg.com/1200x/8b/ce/3c/8bce3ca3a2ffe097cb6a33cf85579a84.jpg",
+    "https://i.pinimg.com/736x/ad/c1/7c/adc17ca220779c07f2a298e0853c1c3e.jpg",
+    "https://i.pinimg.com/1200x/dc/46/94/dc4694acf659f7444dbd2a4cacb08307.jpg",
+    "https://i.pinimg.com/736x/de/01/d0/de01d0050a542dd1c17997621d082141.jpg",
+    "https://i.pinimg.com/1200x/d9/d4/0f/d9d40f513a6bdd84a1bb6ffb0b66df7e.jpg",
+    "https://i.pinimg.com/736x/67/e5/80/67e5800bcbb60bcecadfe01962a64c03.jpg",
+    "https://i.pinimg.com/1200x/7c/a3/6b/7ca36ba3324113e9b35435ce67260493.jpg"
+  ],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Cherry Bomb (樱桃炸弹)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002efXeu0zpbMh.ogg?guid=2788061055&vkey=19D26F92AEF36A65706C81534DBE593D92E8D315C9C1308F7EC810777A9F747BDC6BBC1B961E896A21EF916410FD1973A82A7F41BCEBE3E5__v2b9ab50b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Running 2 U",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000018Ou3t4I46s7.ogg?guid=3960079304&vkey=84928FAE5E3EF4ECAB8EB0D5F57056351FBD74CC3262DF3B7423AC89F52B9C52D0F1602DDA3506F7810B0E1B11D31B9DF6977C39CD8AA0D3__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "0 Mile",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000JezK70y1wpo.ogg?guid=3473803328&vkey=5F35F120FD8046FC2D3CCCC1936FA8B45CAFFAAB18DFF5C8C2BB15C070CC8AAB4466D58168ABDCF20A11014AFBFA3D01048D7BBF877ECE0E__v21e2a1814&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Sun & Moon (日月)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000213Grj3c7UY4.ogg?guid=6830236410&vkey=0AD233492FC0F698FC306AF560830554EED8FD043CD3C2FA4206781C63E2C8AD3428F8F8824042BDB4B470E66755BA67F0112257BD70A463__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Whiplash",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000031MuCK39gDIS.ogg?guid=1775417152&vkey=DB7DB80B44E79FEC869F9777F4875B44A5E0B440391C54963231774B58926919E5458B6145330DB189BE9B9AE0226BEEFB76B46FC00EFC07__v2b9ab50a&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Summer 127",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001HAxGQ47Popu.ogg?guid=937109248&vkey=3BFE82ED8FB2090E8404A87563BA376D55A360745FA42EC03D5EDBCFBB88E95BE64021A5FB70B7F1BF922C3DC74143A56946C0904568C112__v2b9abdbe&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Cherry Bomb (樱桃炸弹) (Performance Ver",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001lHGUu2vMYdw.ogg?guid=4302419572&vkey=1E135645E5E9C95CADE7293993EE229359F3D742A03A813FB44E62A1EBB1F966DB4BAF77E5895137E03084E257E11E2C0428432DD80058A4__v21e2a1eab&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
