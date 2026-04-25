@@ -1,0 +1,50 @@
+{
+  "Album": "Beatbox",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260425_8:18下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Beatbox - The 2nd Album Repackage",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "Beatbox - The 2nd Album Repackage",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/1c/bc/fc/1cbcfc53e7b29ae730685d58e67d10d3.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/e5/eb/d7/e5ebd76f5511690bcce3e8baaec56228.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/32/dc/b8/32dcb8453e366cb1d740a8fd8d4d5961.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/94/76/94/9476947eb52b7843a9f346c275ebef1e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/fe/c6/9d/fec69de7c9983518d6f9e75652f7216e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/47/76/41/477641cd3e012d0cd26b761f22b3f994.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/5b/16/56/5b16564f46b3f5f202d5c2b4bdf2f61e.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/a0/cf/fe/a0cffed0d7a9a5348a150a015c855036.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/f0/e3/67/f0e367b36ee6f8d40faaa97f506d06db.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/b9/15/18/b91518443669895c5d187f4edf9a7533.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/1a/b7/1c/1ab71c11c94004552b5cb93f7c5f0341.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/2a/b6/90/2ab690ca4e0bdf8863c94840fd1fb3cf.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/77/47/6a/77476ae3c13cc07287775864c1965d28.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/f1/1c/1d/f11c1dd43801ba077de3035229f7a655.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "Beatbox",
+        "SongURL": "https://blue-bubbles.top/Album/Beatbox/Beatbox.mp3",
+        "Disc": "Repackage Full Album"
+      },
+      {
+        "SongTitle": "最后的告别 (To My First) (마지막 인사)",
+        "SongURL": "https://blue-bubbles.top/Album/Beatbox/%E6%9C%80%E5%90%8E%E7%9A%84%E5%91%8A%E5%88%AB%20(To%20My%20First)%20(%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%9D%B8%EC%82%AC).mp3",
+        "Disc": "Repackage Full Album"
+      },
+      {
+        "SongTitle": "Sorry, Heart",
+        "SongURL": "https://blue-bubbles.top/Album/Beatbox/Sorry%2C%20Heart.mp3",
+        "Disc": "Repackage Full Album"
+      },
+      {
+        "SongTitle": "星空 (On the way)",
+        "SongURL": "https://blue-bubbles.top/Album/Beatbox/%E6%98%9F%E7%A9%BA%20(On%20the%20way).mp3",
+        "Disc": "Repackage Full Album"
+      }
+    ]
+  }
+}
