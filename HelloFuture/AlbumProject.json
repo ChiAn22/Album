@@ -1,0 +1,41 @@
+{
+  "Album": "HelloFuture",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Hello Future - The 1st Album Repackage",
+  "MeshType": "有CD",
+  "SideTitle": "Hello Future - The 1st Album Repackage",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/06/3c/0d/063c0d821dcbb7e9a03c75dfb70a743a.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/1200x/5a/06/5d/5a065da291967de6c341136e9f94e912.jpg",
+    "https://i.pinimg.com/1200x/de/18/5f/de185fe967943b3a39c04ed706ee3b60.jpg",
+    "https://i.pinimg.com/1200x/c9/ae/e8/c9aee8ab5eee9f5d099e780972ea41d7.jpg",
+    "https://i.pinimg.com/1200x/b6/61/15/b66115e7e9b4067d278d8c82cf3da068.jpg",
+    "https://i.pinimg.com/1200x/e5/fb/09/e5fb0936ab0fa0aa7be613f5a1699067.jpg",
+    "https://i.pinimg.com/1200x/c5/95/ca/c595ca734360cb8c770f6e2f6ba13656.jpg",
+    "https://i.pinimg.com/736x/50/6e/8a/506e8a039dec50e62f1e83f3ad5be89e.jpg"
+  ],
+  "Discs": [
+    "Repackage Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Hello Future",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003Vcl823mIIhF.ogg?guid=1277179867&vkey=9C852FCF75909152DDD19076E88C886CF4463076BA3A7F0643BE9267E511228CF7D8372E2E3169BFF83916AB38E59B8D8EB9D85B92A76D95__v2b932cce&uin=3337423438&fromtag=120532&src=O400000pwAXg4VHKmd.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    },
+    {
+      "fileName": "Bungee",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000048reaw2LP2Nd.ogg?guid=3803300645&vkey=5D06A0E7300B6E676BF713BADED9E24FAACCA8E9DF544E9B2F63F7D12D85C6DC3FAC8EF05242040913B35851DCFBC60A403C46D1CE7C46C7__v2b932b2b&uin=3337423438&fromtag=120532&src=O400000Ze2GK1rQh90.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    },
+    {
+      "fileName": "八音盒 (Life Is Still Going On) (오르골)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000mFZIr0SC12r.ogg?guid=5338526275&vkey=0CB1C11FC1B7495B72AFB42B6310D9CC3B819E4B774EA1CE7353EF7EEDF8F49AA7269DDEFDE0D756211B2C2F8794FB1DE62FA051001394AC__v2b932cce&uin=3337423438&fromtag=120532&src=O400003SxqQ43ZhG6F.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    }
+  ]
+}
