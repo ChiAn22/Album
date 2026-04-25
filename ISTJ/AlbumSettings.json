@@ -1,0 +1,74 @@
+{
+  "Album": "ISTJ",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260425_8:38下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "ISTJ - The 3rd Album",
+  "Introduction": "ISTJ is the third studio album by South Korean boy band NCT Dream. Released on July 17, 2023, by SM Entertainment through Kakao Entertainment, the album consists of 10 tracks and is supported by the singles \"Broken Melodies\" and \"ISTJ\".\n\nThe opening and title track, \"ISTJ\" is a hip hop dance song, expressing desire to deviate from the stereotypes of MBTI personality types. Specifically, the song is written from the perspective of an ENFP individual and directed towards an opposite-personality ISTJ individual. The second track, and the lead single, \"Broken Melodies\" is a solemn pop song, with the accompanying music video featuring calls at a phone booth and depicting the struggles of a long-term relationship. \"Yogurt Shake\" is a sweet melodic song characterized by harmonic vocals. The fifth track, \"Blue Wave\", is a bright and rhythmic pop song, acting as a sequel to \"Dive into You\", a song from a previous album, Hot Sauce. It also features sounds of a pan flute and fast-paced lyrics. \"Poison\" is a sensual R&B song, conveying contradictory feelings of love, while \"SOS\" is a powerful hip hop dance song characterized by synth sounds. \"Pretzel\" is a futuristic hip hop song, featuring electronic synths, while \"Starry Night\" features sounds of an acoustic guitar and trap beats. The final song of the album, \"Like We Just Met\" is a slow ballad written by all members of the group and expresses the group's desire to stay with their fans forever.",
+  "Form": {
+    "AlbumTitle": "ISTJ - The 3rd Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/2f/54/9f/2f549fd46310abc546bac8ad124c1e88.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/b6/8c/dc/b68cdc5a7fd48cdfa6fe94d8108c8cbf.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/26/d5/1f/26d51f67c471d05de2dbbe0ea9bb1533.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/a4/68/c5/a468c554c667f6e3707b8136222bc329.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/df/22/90/df22906c04d593eb845c1ead0e607f39.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/d7/35/32/d73532876b0eead67ce2b86d1f5bf048.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/a9/e8/00/a9e800a5de1129f8d45be5f6636b602c.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/f8/ce/50/f8ce50217cb33c94d796294d5df2442a.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "ISTJ",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/ISTJ.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Broken Melodies",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Broken%20Melodies.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Yogurt Shake",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Yogurt%20Shake.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Skateboard",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Skateboard.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "湛蓝 (Blue Wave)",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/%E6%B9%9B%E8%93%9D%20(Blue%20Wave).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Poison (沙子城堡)",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Poison%20(%E6%B2%99%E5%AD%90%E5%9F%8E%E5%A0%A1).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "SOS",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/SOS.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Pretzel",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Pretzel.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "依依星夜 (Starry Night)",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/%E4%BE%9D%E4%BE%9D%E6%98%9F%E5%A4%9C%20(Starry%20Night).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Like We Just Met",
+        "SongURL": "https://blue-bubbles.top/Album/ISTJ/Like%20We%20Just%20Met.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
