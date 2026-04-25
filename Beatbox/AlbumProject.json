@@ -1,0 +1,53 @@
+{
+  "Album": "Beatbox",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Beatbox - The 2nd Album Repackage",
+  "MeshType": "无CD",
+  "SideTitle": "Beatbox - The 2nd Album Repackage",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/1c/bc/fc/1cbcfc53e7b29ae730685d58e67d10d3.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/1200x/e5/eb/d7/e5ebd76f5511690bcce3e8baaec56228.jpg",
+    "https://i.pinimg.com/736x/32/dc/b8/32dcb8453e366cb1d740a8fd8d4d5961.jpg",
+    "https://i.pinimg.com/1200x/94/76/94/9476947eb52b7843a9f346c275ebef1e.jpg",
+    "https://i.pinimg.com/1200x/fe/c6/9d/fec69de7c9983518d6f9e75652f7216e.jpg",
+    "https://i.pinimg.com/1200x/47/76/41/477641cd3e012d0cd26b761f22b3f994.jpg",
+    "https://i.pinimg.com/736x/5b/16/56/5b16564f46b3f5f202d5c2b4bdf2f61e.jpg",
+    "https://i.pinimg.com/1200x/a0/cf/fe/a0cffed0d7a9a5348a150a015c855036.jpg",
+    "https://i.pinimg.com/1200x/f0/e3/67/f0e367b36ee6f8d40faaa97f506d06db.jpg",
+    "https://i.pinimg.com/1200x/b9/15/18/b91518443669895c5d187f4edf9a7533.jpg",
+    "https://i.pinimg.com/1200x/1a/b7/1c/1ab71c11c94004552b5cb93f7c5f0341.jpg",
+    "https://i.pinimg.com/1200x/2a/b6/90/2ab690ca4e0bdf8863c94840fd1fb3cf.jpg",
+    "https://i.pinimg.com/736x/77/47/6a/77476ae3c13cc07287775864c1965d28.jpg",
+    "https://i.pinimg.com/736x/f1/1c/1d/f11c1dd43801ba077de3035229f7a655.jpg"
+  ],
+  "Discs": [
+    "Repackage Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Beatbox",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001Zfm8K2HpOEF.ogg?guid=4180994905&vkey=A39253259A25E73696DEFCB88A76E0BC80EFB92B2870736C949506AD08C2866BF662005592932E03967E7B2A2812DCDA981E40D021B1A183__v215df34cd&uin=3337423438&fromtag=120532&src=O4000001tS1D1gN9Zl.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    },
+    {
+      "fileName": "最后的告别 (To My First) (마지막 인사)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000dPeg03OAIU2.ogg?guid=7923586522&vkey=A2A8B28DB6E92EB616A7B54312211FDFC28093DB1ACD635835FF3D49F1BB1BC199373E69C03EA5BD3143B6629ADB49FF2424955321A0DF08__v215192dfd&uin=3337423438&fromtag=120532&src=O400002I0hNy4gFXM4.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    },
+    {
+      "fileName": "Sorry, Heart",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001mEImy0MjZeE.ogg?guid=2822902332&vkey=072397D3B7F2E604CE35922A15F9085233789FCEE49E5C4A7D0FEA9A2A3E2EF49063136372D44FD8472ED935783EBDFC539C98689F248441__v21530b2fb&uin=3337423438&fromtag=120532&src=O400003sVoHm29Iyc3.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    },
+    {
+      "fileName": "星空 (On the way)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002hULN306VH0T.ogg?guid=103703344&vkey=0DCDA7F46DD63562FFCE9C8101F02DE139E6492E7FAF17A3AC23BFC4FD851B589A83B3C68F72D9656D49ED7E59B90D8C671E74A45B30B83D__v21e297dc3&uin=3337423438&fromtag=120532&src=O400000m1eHc0syGAg.ogg",
+      "format": "ogg",
+      "disc": "Repackage Full Album"
+    }
+  ]
+}
