@@ -1,0 +1,32 @@
+{
+  "Album": "Recipe",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "RECIPE (レシピ)",
+  "MeshType": "无CD",
+  "SideTitle": "RECIPE (レシピ)",
+  "Introduction": "",
+  "CoverUrl": "https://y.qq.com/music/photo_new/T002R300x300M000001d90000YOIvi_1.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/1200x/27/1f/f9/271ff94d3bda962086636efa9768c06d.jpg",
+    "https://i.pinimg.com/736x/c4/79/27/c4792792f829ee867195f98399efabeb.jpg",
+    "https://i.pinimg.com/736x/80/ca/12/80ca1273f54cef3a9f54a3816d215162.jpg",
+    "https://i.pinimg.com/736x/37/73/07/3773073bc2cdd34c66cae57f74ca6bb7.jpg"
+  ],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "RECIPE (レシピ; 食谱)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000vk97Z2mmUUU.ogg?guid=5670040000&vkey=B12146670BF49CAFAA29D3DC03A0E811C94D7563151772FBE68CE905E280E74F96576D7DDE28231E99400E7A1626BF12E9D75F0D8EA33881__v21ea05c3d&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "RECIPE (レシピ; 食谱) (Original Karaoke)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001y92aR0h2lse.ogg?guid=8377893437&vkey=3E4D5B9272262C2C3A0DBC7D27F0D737B78D50A553A935C4FD4E02CABA2B9F0F7EA7CF249701496E66A2E2976E701FDB5D069938994B947B__v215192806&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
