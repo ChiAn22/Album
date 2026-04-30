@@ -1,0 +1,31 @@
+{
+  "Album": "Recipe",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260430_7:18下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "RECIPE (レシピ)",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "RECIPE (レシピ)",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/y.qq.com/music/photo_new/T002R300x300M000001d90000YOIvi_1.jpg?tiny_hanan",
+    "AlbumImage": [
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/27/1f/f9/271ff94d3bda962086636efa9768c06d.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/c4/79/27/c4792792f829ee867195f98399efabeb.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/80/ca/12/80ca1273f54cef3a9f54a3816d215162.jpg?tiny_hanan",
+      "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/37/73/07/3773073bc2cdd34c66cae57f74ca6bb7.jpg?tiny_hanan"
+    ],
+    "Songs": [
+      {
+        "SongTitle": "RECIPE (レシピ; 食谱)",
+        "SongURL": "https://blue-bubbles.top/Album/Recipe/RECIPE%20(%E3%83%AC%E3%82%B7%E3%83%94%3B%20%E9%A3%9F%E8%B0%B1).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "RECIPE (レシピ; 食谱) (Original Karaoke)",
+        "SongURL": "https://blue-bubbles.top/Album/Recipe/RECIPE%20(%E3%83%AC%E3%82%B7%E3%83%94%3B%20%E9%A3%9F%E8%B0%B1)%20(Original%20Karaoke).mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
