@@ -1,0 +1,76 @@
+{
+  "Album": "ENHYPENpt1",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "ENHYPEN 精选集 pt.1",
+  "MeshType": "有CD",
+  "SideTitle": "ENHYPEN 精选集 pt.1",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/c9/e6/6a/c9e66aa9929010a71c2b9fe348c499dc.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Side A - Mortal",
+    "Side B - XO"
+  ],
+  "Songs": [
+    {
+      "fileName": "Mortal",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004Zs0WR1M4QRW.ogg?guid=3261724957&vkey=6E963889A194039047E6D85B2DA23423318EF5ADCE75D2807B8F1EED2AD20CFF9C61570FB85BCAB616E74A528368C94B84B01CB4150C7CCF__v21e297952&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side A - Mortal"
+    },
+    {
+      "fileName": "Sweet Venom",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002LkDCD0mC93n.ogg?guid=8412955202&vkey=DE9F144F331CA29F538C5AED314702EBB8ED3F73808A6CD573F855FAD32D9EB20116899CFF47F6B4D1175FFC49B38495117F248BB0328F14__v21e297ef6&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side A - Mortal"
+    },
+    {
+      "fileName": "Upper Side Dreamin'",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000049Icbw12z6IH.ogg?guid=4113813792&vkey=743C7DE14F3CF76B3C41533FE03E1A2704B4480378D2F1F75DEF8AAE6E31780FF56D1FAB814AF75FB1D93EF9738CEB08D6311FFB1C0912AD__v215df3be6&uin=3337423438&fromtag=120532&src=O400003dPqh533VzjZ.ogg",
+      "format": "ogg",
+      "disc": "Side A - Mortal"
+    },
+    {
+      "fileName": "Not For Sale",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001qpnMA4319tX.ogg?guid=843876120&vkey=7238A4526BD32827D24530B44B767A23CAF703DD587BD0D85D52F3ACD7A891630545A83CB89ED25E0CC80A544FE311CD0AC39A3F4BFFD543__v21ea05cd6&uin=3337423438&fromtag=120532&src=O400001Be7rd0k3iv0.ogg",
+      "format": "ogg",
+      "disc": "Side A - Mortal"
+    },
+    {
+      "fileName": "Bills",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004LR9DO2keiMc.ogg?guid=1714330832&vkey=5A4A22C1596E12FF2238522DE8127EFB76B458CD6E770B1BD5CF0AC44BAF24358E3C58605B37E2A290F32AA80ACE2CCB70D730F456C53FDC__v21519311b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side A - Mortal"
+    },
+    {
+      "fileName": "XO (Only If You Say Yes)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000cWZW806oyOW.ogg?guid=4094426975&vkey=2B471474732B9F4CD4634B75FDC9CD25C6B5D4E42851CEBBB3F80DFEBD81359CF06A622A5570740C6181A7E4BB44CE96FC77F74B7F2858C1__v21e297ef6&uin=3337423438&fromtag=120532&src=O400001Nkb9P21NBaR.ogg",
+      "format": "ogg",
+      "disc": "Side B - XO"
+    },
+    {
+      "fileName": "Your Eyes Only",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002NWHqe37pF6Y.ogg?guid=3616597175&vkey=0E810CE04457F91B24171605260FADEF6AA06B4FE31121EBD800C3A162CE6561E701FCC390AC8346E60163B9207F503B0B4359C2D0B81B8C__v21563fcf6&uin=3337423438&fromtag=120532&src=O4000027Dscv4gPcdy.ogg",
+      "format": "ogg",
+      "disc": "Side B - XO"
+    },
+    {
+      "fileName": "Royalty",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003mT0yG0GwK1u.ogg?guid=1827071780&vkey=9AE317109A4ECEDC9BCC7BE16F030CC6DC261BBAA0765DC4D858989259E67EB4370BE5DF800995669BE6B57F8E00243CBB7BD7FE148124FD__v21e297952&uin=3337423438&fromtag=120532&src=O400001JEHji0XegCY.ogg",
+      "format": "ogg",
+      "disc": "Side B - XO"
+    },
+    {
+      "fileName": "Daydream",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002OooXl33papZ.ogg?guid=9572954016&vkey=F9113B9820FEDE548FFEDC56C7D4CFE32D6ACDDDE640AFC85476B1681B5BEFC44AE1F060D8FEB826A7BFF40C2EE3FDF5F7878981A5E53207__v21ea05cd6&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - XO"
+    },
+    {
+      "fileName": "No Doubt",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000JijZB1KsZSs.ogg?guid=155258332&vkey=90C18EDD5316C6F3900691926BEDD6BE8F6ABAF3827B162CFE3682F58A0BAE356491760A320CE686E92880F536D0636A66D7E08FA226AF94__v21589e1fb&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - XO"
+    }
+  ]
+}
