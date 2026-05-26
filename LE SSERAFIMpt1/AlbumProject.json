@@ -1,0 +1,70 @@
+{
+  "Album": "LE SSERAFIMpt1",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "LE SSERAFIM 精选辑 pt.1",
+  "MeshType": "无CD",
+  "SideTitle": "LE SSERAFIM 精选辑 pt.1",
+  "Introduction": "",
+  "CoverUrl": "https://y.qq.com/music/photo_new/T002R300x300M0000021QPqJ0IMjCc_1.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Side A - Pureflow",
+    "Side B - CRAZT"
+  ],
+  "Songs": [
+    {
+      "fileName": "Pureflow",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000PKkN61BQKDs.ogg?guid=6529038144&vkey=4FD73097CD9B6D29ADC0D0989664CFF3D04FFEC66083F08762087386FEA046C3402F33AB5A2848C7D4760D877D2AAA77D47A16078FE5AA7D__v2b9abe71&uin=3337423438&fromtag=120532&src=O400004eMvLk31qWm9.ogg",
+      "format": "ogg",
+      "disc": "Side A - Pureflow"
+    },
+    {
+      "fileName": "BOOMPALA",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000005JFAh1b3xoq.ogg?guid=9413062912&vkey=35933F73A8E04BBE74D0B739318E784D1EB306C76112C044A676354C38DD5414BFC8A0AF013C768D54E494609AFF8E0E42CFB2284811E842__v21e2a187e&uin=3337423438&fromtag=120532&src=O400000Pd1f02ZfSqh.ogg",
+      "format": "ogg",
+      "disc": "Side A - Pureflow"
+    },
+    {
+      "fileName": "iffy iffy",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004Gmq5T4EBA61.ogg?guid=2077147632&vkey=50FAFC926EF518E0502BAA4130F3BE0270DED096A085AFDD1268DA45EED8D672DF1E2FB6FB118AFC6A495F5E984334DFA8C8E1917C7BEB45__v2b94c436&uin=3337423438&fromtag=120532&src=O400001ZZd1n3tNBjc.ogg",
+      "format": "ogg",
+      "disc": "Side A - Pureflow"
+    },
+    {
+      "fileName": "Saki (feat",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003FdC6C0UhbgU.ogg?guid=97790374&vkey=BAD4F235EED49F3E12366733B0D03084AE7D8B86B197E298F972062A38B99DDC61F936D00792AA913AD2C9B6931276F7F41598089363BE70__v2b9ab135&uin=3337423438&fromtag=120532&src=O400003GLjWs13QFtl.ogg",
+      "format": "ogg",
+      "disc": "Side A - Pureflow"
+    },
+    {
+      "fileName": "Chasing Lightning",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003l74jr0LHSri.ogg?guid=1607957727&vkey=161A9413CF6F31D88D247AD45CAA960B14BDC79031E3F9DD14A4A9331ABBA6BDD5FA90199359AA2297A5E3376B5A872A905FCF3B6E4F1923__v21e2a187e&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - CRAZT"
+    },
+    {
+      "fileName": "CRAZY",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000371kB223ZXJY.ogg?guid=8042028768&vkey=BEF78E749DA69C9CF021DF82C535FFFA584212E4CD0119FBD20A54BF38D6B42EC3C01DADA982F02A10031F9AB680F641505BFEAF31CD9329__v2b9abe75&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - CRAZT"
+    },
+    {
+      "fileName": "1-800-hot-n-fun",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001blu4S1cnxro.ogg?guid=5512394428&vkey=8B85C8507694EA2E3B13A4A0204BD63FF681933B9613DA6F551CC5FEAA2540C7E646DFC82B27E201BAC308F2AAE8893E99CDAB29F3A6D01B__v2b94c442&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - CRAZT"
+    },
+    {
+      "fileName": "SPAGHETTI (feat",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004JC3d51K8x1Q.ogg?guid=4175960192&vkey=51218E39A4C66429293A07B41813202697C3D6B9A54E6D7E48DBB685B8AD43B8C058364AE7D0E75648D97B4B5B0BBDCE098ED4FA44E8D61B__v2b9abe71&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - CRAZT"
+    },
+    {
+      "fileName": "DIFFERENT (English ver",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000049Tbyq006lSd.ogg?guid=5121902113&vkey=5E4E7B0559F7DC39877AECB6119B3DFE0B96DDB8961BE73560B767C88F6678634BFDBD6B52137AD3098895C9886A68FFF6A5A5BE12CE5EAE__v2b9abe8c&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Side B - CRAZT"
+    }
+  ]
+}
