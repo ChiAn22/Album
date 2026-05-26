@@ -1,0 +1,41 @@
+{
+  "Album": "minisodeBlueHour",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_11:15上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "minisode1 : Blue Hour",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "minisode1 : Blue Hour",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/7e/26/66/7e2666a7c96be678a8504fda3edc1631.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Ghosting",
+        "SongURL": "https://blue-bubbles.top/Album/minisodeBlueHour/Ghosting.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "5시 53분의 하늘에서 발견한 너와 나 (Blue Hour)",
+        "SongURL": "https://blue-bubbles.top/Album/minisodeBlueHour/5%EC%8B%9C%2053%EB%B6%84%EC%9D%98%20%ED%95%98%EB%8A%98%EC%97%90%EC%84%9C%20%EB%B0%9C%EA%B2%AC%ED%95%9C%20%EB%84%88%EC%99%80%20%EB%82%98%20(Blue%20Hour).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "날씨를 잃어버렸어 (We Lost The Summer)",
+        "SongURL": "https://blue-bubbles.top/Album/minisodeBlueHour/%EB%82%A0%EC%94%A8%EB%A5%BC%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A0%B8%EC%96%B4%20(We%20Lost%20The%20Summer).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Wishlist",
+        "SongURL": "https://blue-bubbles.top/Album/minisodeBlueHour/Wishlist.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "하굣길 (Way Home)",
+        "SongURL": "https://blue-bubbles.top/Album/minisodeBlueHour/%ED%95%98%EA%B5%A3%EA%B8%B8%20(Way%20Home).mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
