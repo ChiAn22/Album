@@ -1,0 +1,46 @@
+{
+  "Album": "TheDreamChapterETERNITY",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_11:03上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "The Dream Chapter: ETERNITY",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "The Dream Chapter: ETERNITY",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/fd/91/21/fd9121de1405276d377ae89a5d2108fc.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Drama",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/Drama.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "세계가 불타버린 밤, 우린... (Can't You See Me?)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/%EC%84%B8%EA%B3%84%EA%B0%80%20%EB%B6%88%ED%83%80%EB%B2%84%EB%A6%B0%20%EB%B0%A4%2C%20%EC%9A%B0%EB%A6%B0...%20(Can't%20You%20See%20Me%3F).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "샴푸의 요정 (Fairy of Shampoo)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/%EC%83%B4%ED%91%B8%EC%9D%98%20%EC%9A%94%EC%A0%95%20(Fairy%20of%20Shampoo).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "거울 속의 미로 (Maze in the Mirror) (镜中迷宫)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/%EA%B1%B0%EC%9A%B8%20%EC%86%8D%EC%9D%98%20%EB%AF%B8%EB%A1%9C%20(Maze%20in%20the%20Mirror)%20(%E9%95%9C%E4%B8%AD%E8%BF%B7%E5%AE%AB).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "동물원을 빠져나온 퓨마 (PUMA)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/%EB%8F%99%EB%AC%BC%EC%9B%90%EC%9D%84%20%EB%B9%A0%EC%A0%B8%EB%82%98%EC%98%A8%20%ED%93%A8%EB%A7%88%20(PUMA).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Eternally",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterETERNITY/Eternally.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
