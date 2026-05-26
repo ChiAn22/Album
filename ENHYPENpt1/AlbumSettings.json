@@ -1,0 +1,66 @@
+{
+  "Album": "ENHYPENpt1",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_10:56上午",
+  "Created User": "函桉",
+  "Mesh Type": "有CD",
+  "SideTitle": "ENHYPEN 精选集 pt.1",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "ENHYPEN 精选集 pt.1",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/c9/e6/6a/c9e66aa9929010a71c2b9fe348c499dc.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Mortal",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Mortal.mp3",
+        "Disc": "Side A - Mortal"
+      },
+      {
+        "SongTitle": "Sweet Venom",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Sweet%20Venom.mp3",
+        "Disc": "Side A - Mortal"
+      },
+      {
+        "SongTitle": "Upper Side Dreamin'",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Upper%20Side%20Dreamin'.mp3",
+        "Disc": "Side A - Mortal"
+      },
+      {
+        "SongTitle": "Not For Sale",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Not%20For%20Sale.mp3",
+        "Disc": "Side A - Mortal"
+      },
+      {
+        "SongTitle": "Bills",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Bills.mp3",
+        "Disc": "Side A - Mortal"
+      },
+      {
+        "SongTitle": "XO (Only If You Say Yes)",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/XO%20(Only%20If%20You%20Say%20Yes).mp3",
+        "Disc": "Side B - XO"
+      },
+      {
+        "SongTitle": "Your Eyes Only",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Your%20Eyes%20Only.mp3",
+        "Disc": "Side B - XO"
+      },
+      {
+        "SongTitle": "Royalty",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Royalty.mp3",
+        "Disc": "Side B - XO"
+      },
+      {
+        "SongTitle": "Daydream",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/Daydream.mp3",
+        "Disc": "Side B - XO"
+      },
+      {
+        "SongTitle": "No Doubt",
+        "SongURL": "https://blue-bubbles.top/Album/ENHYPENpt1/No%20Doubt.mp3",
+        "Disc": "Side B - XO"
+      }
+    ]
+  }
+}
