@@ -1,0 +1,69 @@
+{
+  "Album": "TheMostBeautifulMomentInLifePt1",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "화양연화 pt.1",
+  "MeshType": "有CD",
+  "SideTitle": "화양연화 pt.1",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/8d/db/6d/8ddb6d53c7d757ba69598d374f15a7f6.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Intro The Most Beautiful Moment in Life",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000m7Kcj0FhQeu.ogg?guid=7734108148&vkey=EB101383A4A485D25DD66B5F59010A2E00C9C4B0913AD38687BD176E63BE4ACC0C924C4D3CBD4AFFB6AE63133D12A455D77233E47DFE73A8__v2b9abe75&uin=3337423438&fromtag=120532&src=O400001FCETB4UPuKr.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "I Need U",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000006caRu2zIRWv.ogg?guid=2927365100&vkey=3ED37E61127534F80120C53196BF5C1312ECBBD5A0FF0C628BC407A673D2BE3ED5755CEC8E4DFF53D24B6CBB749F11C8FF2AEB04BF7EA310__v2b94c442&uin=3337423438&fromtag=120532&src=O400004GT8zJ0H0Sbb.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "잡아줘 (Hold Me Tight) (抓紧我)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001CjQpl1tenNQ.ogg?guid=2017250812&vkey=6A38EBC220F7F4317591C3F208818EEFD4C3977CCFF6AFF240E00BEEB574718AD65CB4B6D0D1BB2838F42DD88120CDFF8BF374ACFDD7D91C__v2b9ab135&uin=3337423438&fromtag=120532&src=O400002ePZNA1acLCn.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Skit: Expectation!",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002x1K6S2lauzf.ogg?guid=9338622016&vkey=1F4B8BAF32EBCAD76FF172FD85F5D95657879FFEF43E703A019B85A9706DBBC9D452BAFC51B2015869597F13426B0ADCE59D12D3A509A413__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400000dYLI30zhGsX.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "쩔어 (Dope)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001JwRO32Mb8TV.ogg?guid=2079387944&vkey=34DB0368F809098D30B11DDA3C16BCC668F6D00F292901536CD56E11AC7393C41086591DC91A74B8714D8CC51DF16EF062B2C94B1139F950__v2b94c442&uin=3337423438&fromtag=120532&src=O400000j0PmW2MdaZa.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "흥탄소년단 (Boyz with Fun)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002JooSw1GSkJi.ogg?guid=7360462624&vkey=FA3A780D546F4C8A7EFCE56580C91DC78EDB9C207FB101E3C831F9AB4C56D468363E8DDB7E9D40F7B52A14E75EA0E0192DEE053D652E71E0__v2b9abe8b&uin=3337423438&fromtag=120532&src=O4000045NiSb0AfQRZ.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Converse High",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000010hPdn4Tw1lD.ogg?guid=6668241422&vkey=B721730A385D6A1B50438B3E6EF283667E14E721F4355712BDD8657FD49DC9300A899BE5CE91812D061370E47BAF12C56F4E4D831AD0BD52__v2b9abe89&uin=3337423438&fromtag=120532&src=O400000hd45F0A8KkV.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "이사 (Moving On) (搬家)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001dPpLp3K4CYs.ogg?guid=8651175896&vkey=25A4978CDCFBD49E002B911930680CD0A3385D643C339A159A92F9771C5B4C7CADA1D63F263C1DE071E12DA52891583433F08BE0E094F132__v21e2a187e&uin=3337423438&fromtag=120532&src=O400002utZbe3mRG1M.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Outro: Love Is Not Over",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002e0utV14yoGW.ogg?guid=710002131&vkey=A0734CA9B4615765CE66F174DB584EAC982EE14C716978F1177E3FC7C416AAD94F0B36A8C115704395373017C26C766FA0D95555B9B3BBF3__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400001aIA5W0f4Ijz.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
