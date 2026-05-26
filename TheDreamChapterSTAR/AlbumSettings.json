@@ -1,0 +1,41 @@
+{
+  "Album": "TheDreamChapterSTAR",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_11:06上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "The Dream Chapter: STAR",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "The Dream Chapter: STAR",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/76/c0/90/76c090126877ff4a10fbd787619f3881.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Blue Orangeade",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterSTAR/Blue%20Orangeade.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "어느날 머리에서 뿔이 자랐다 (CROWN)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterSTAR/%EC%96%B4%EB%8A%90%EB%82%A0%20%EB%A8%B8%EB%A6%AC%EC%97%90%EC%84%9C%20%EB%BF%94%EC%9D%B4%20%EC%9E%90%EB%9E%90%EB%8B%A4%20(CROWN).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Our Summer",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterSTAR/Our%20Summer.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Cat & Dog",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterSTAR/Cat%20%26%20Dog.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "별의 낮잠 (Nap of a star) (星星的午睡)",
+        "SongURL": "https://blue-bubbles.top/Album/TheDreamChapterSTAR/%EB%B3%84%EC%9D%98%20%EB%82%AE%EC%9E%A0%20(Nap%20of%20a%20star)%20(%E6%98%9F%E6%98%9F%E7%9A%84%E5%8D%88%E7%9D%A1).mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
