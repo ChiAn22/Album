@@ -1,0 +1,178 @@
+{
+  "Album": "YoungForever",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "화양연화 Young Forever",
+  "MeshType": "无CD",
+  "SideTitle": "화양연화 Young Forever",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/2a/af/1c/2aaf1c8f03fb78b25bac0e0b9ae39a97.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "Intro: 화양연화 (Intro ： 花样年华)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004JtdQf3qR6JF.ogg?guid=4383771954&vkey=5844FF3CE075162FA57FA36E68F044ECDFA6EB0AC890D28E34FF85AA4A09063B4DE090774B91839B700ABA63C10D1167A494EFF21E4D0352__v2b94c444&uin=3337423438&fromtag=120532&src=O400004VMXuo1uXZKW.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "I Need U",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000017xVnO0QfK1j.ogg?guid=3587458160&vkey=0991EFC1F8B2498708409C18987150D56518D5341AC1D11ACD0C27DAA515F936E3392985CAFBCDFFFC861BD5CBF8645CD0244769DD757BB4__v2b9abe85&uin=3337423438&fromtag=120532&src=O400003cC7hH3RsIee.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "잡아줘 (Hold Me Tight)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001rvMOK1bt9kh.ogg?guid=2209232395&vkey=EE3B9C4F761FC88E71CD739BABF0167EED10810A1CE6EDF95149C704D5E86200D51ACF513FEDB25A545CAB3035588E3285CCA614878A1557__v2b9ab135&uin=3337423438&fromtag=120532&src=O400002X8nuX0fAJKW.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "고엽 (Autumn Leaves) (枯叶)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002FHK6M2nLAJV.ogg?guid=7232323734&vkey=9B95E2ACCD5474F115DF8526826F6E6771734332214E1DDB1CFB7042025B8A22DCA9DA94ED183CBBD474C30C4EC28B9E0378C87A9253A478__v2b9abe85&uin=3337423438&fromtag=120532&src=O400000DkVlR0kvlSH.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Butterfly (Prologue Mix)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001TWr1k3SkcEP.ogg?guid=734984831&vkey=584CF5580FADC5E263EE3339D944E9288585C50BF94FBEFE718CC9FC6C4CDA72A3D87B91CAB2D362E1162369538396F525E394984F49DA94__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400002AzGAF302IkP.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Run",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003zcnow2cbnyW.ogg?guid=7187944729&vkey=4DA75C3C4BF88F9050B7FC6FE722AE0B584B2B6C88AED37C55D36634C2629874F60576C196CA4316C0A2914F737F192C8FB38C08F0DBD743__v2b9abe75&uin=3337423438&fromtag=120532&src=O400000vpkKE0UUvaP.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Ma City",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000Z1mPI0i8jab.ogg?guid=3233247607&vkey=907E4379442D43EAB6F33FE6EE6C7A86090E7D7001FFB250480F9E71C2345EA7BA0A603BE2182CDD92B54F0EACB760A2B714A97D77266A9E__v2b9ab135&uin=3337423438&fromtag=120532&src=O400000odl4g2o1WLH.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "뱁새 (Silver Spoon) (鸦雀)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003sryYK42toLU.ogg?guid=1548743917&vkey=037ECB2191FD7EE54C99C2F303674209077DAFE878A0DE439E6E3C5D6F234032D2FD4FF80E5C5A2A99D358809BD902A75D429EE6079A025A__v2b9abe85&uin=3337423438&fromtag=120532&src=O400004FUIYD07vqj2.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "쩔어 (Dope) (绝了)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000Zfzjb2DWDU2.ogg?guid=1776349659&vkey=1107E952377A83142E7CE6E431337A0C9B4152CCD27DC71DA94DC1F112D49E4113950EB481580FA2DD0F8B084D0AA5C0E5E4DC7A82892313__v2b9abe85&uin=3337423438&fromtag=120532&src=O400002qVlo12DY3v3.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "불타오르네 (Fire)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002499WW39iRp7.ogg?guid=6084700025&vkey=A57147C335FDB60ADA76D8093572D7408FC8B6117E50F2462DE35A42D0B3897675EFF65597B9885AD5DA620A8BB70C2673DB7A5EAEDB2EA6__v21e2a187e&uin=3337423438&fromtag=120532&src=O400003EYbRL4aqnPL.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Save Me",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000036wvAQ24fsap.ogg?guid=3286331133&vkey=FE949857F52D7CDE36E3C368EE4D8B185CCCE58912547DDF92719B6141D34101EA187EA706FCF8B7098DFD8EBD43A1CA4116C6D4B6AE25B8__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400003JkGay28SVsq.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Epilogue Young Forever",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000JsMyq1tvGVV.ogg?guid=5659789855&vkey=49700C610F09A7B4D2A7E8C483609F52078C1EE961A2FB5406D71749DD4BBFCE693AA6DC5796AF4A4ECECCFDB9CFDDB25CB77EF9CE7A8328__v21e2a187e&uin=3337423438&fromtag=120532&src=O400000cP9a72ofA95.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Converse High",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001imX6N2EOmWo.ogg?guid=751289992&vkey=A67282E43EE1A741B3095DD9BCBEA298A71DFAB596142EF0209404367C497B0AD6DA86724363BEA3F42DF6C9D0CA440639EEF25787013C55__v2b9ab135&uin=3337423438&fromtag=120532&src=O400003Awq9v0RI6aC.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "이사 （Moving On） （搬家）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001u2kSg2uKxNv.ogg?guid=3085659148&vkey=EFF6773F7149BBD629E54B3FF4BD0068A681AC96EBAF524FE7E62ECCD4CA6354C6F52C59B43B760F2A151219191F877D5C6658A16C4D4607__v2b9ab134&uin=3337423438&fromtag=120532&src=O400000f3Mnu0Sw8sq.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Whalien 52",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000pjrfJ1qyZqH.ogg?guid=6857643347&vkey=A15F4ADD4A99CDD3E122CC4D1410AB53C8E161C02045358F53E6246D7F1818E03DED25B748375EC33EAB1A53882EBED53479E7C2C4B7CD25__v2b9abe85&uin=3337423438&fromtag=120532&src=O4000013Wny92frley.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Butterfly",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003Rlcdl1HgbLH.ogg?guid=8001332927&vkey=CB838A9EB77EE23C385AF3CDF0A9B1C8CB7282BA48D98CB9C43E18EF704C34D14A89D535B220691230DB728A2B1B74BD428E54AC99F238B4__v2b9abe75&uin=3337423438&fromtag=120532&src=O400000PXDK137Fpa3.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "House of Card （Full Length Edition）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003SPaog3Y2z7L.ogg?guid=7900344320&vkey=39AAB34FC4661A5DB38EF3243D2A8547499B4FCDAB49E945FEE5725F72D874F7F5E43BE9C1BA3BD7E05EB16BC59255762006491138B8DFA5__v21e2a187e&uin=3337423438&fromtag=120532&src=O400003nKPz93thq2M.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Love Is Not Over （Full Length Edition）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001VwpOE352tLu.ogg?guid=6495393720&vkey=ACA91EE0055239449B90F99DC8C563796538DC02FD3F8B9EA2CB80479629E32A9CDB546283672C5B5FECC0BB1FE96FDC9ED650BC38B4D5D1__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400003FjnGb12B9th.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "I Need U （Urban Mix）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002NkDDV38lSuy.ogg?guid=886908849&vkey=906219FF20687E0EE46A831C30E2A1833A4EC24745A11BEA045EE729244DAE6A7DED842EFD0CB8F8E252DABAB63F8770640743478946EE93__v2b9ab135&uin=3337423438&fromtag=120532&src=O4000011WpDq2jwVaL.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "I Need U （Remix）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000NI8M12wXgCl.ogg?guid=2328828327&vkey=5E9AE1D07E4207026314F75438441A563586745DF5336E81DA21115FFAEC397F1AEF93918BAC3BD7A976AABB5421FB11C22C1193164A2864__v21e2a187e&uin=3337423438&fromtag=120532&src=O400001WbXBO0derrp.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Run （Ballad Mix）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001xwA2s1eq8J6.ogg?guid=3449499780&vkey=350987C8F75DEB12C039DD8B4C727BB6F5006157C69CD83E00C43B67E8C438F6E433EFD606B9C9BAE80DB616B3E039D76CFBF0E14D9A190F__v2b9abe71&uin=3337423438&fromtag=120532&src=O4000007pi1H42wjHj.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Run （Alternative Mix）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001hmyOn2tof3J.ogg?guid=7450145916&vkey=0CE82AF078B882973A2B12387A0214D2818C4A14DE95774E93089A3DAD5CA8B23E917CBDAE3BE5DE399BC173C31438841380780FE9BDA65B__v2b9abe85&uin=3337423438&fromtag=120532&src=O400001sCBUB1AwTiF.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Butterfly （Alternative Mix）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002itBlO4UdT3l.ogg?guid=9369881376&vkey=C2735E72EFF30D89CF5EFE5B24270D012E477E214B452299C6A3020E658D88E85F2443129C655D0ED8DA749463EF7F7AE502174109FCB869__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400002KR1mT1gBDjV.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "INTRODUCTION  YOUTH",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000042CBGE2dPhEe.ogg?guid=7981518232&vkey=904B81B8BEBE4059BD0FC18A5449A82D0A9BDED00B3B1130134FC1C36B9039F4A4CE8F98C64E5D59FE6485A8CBAB9A3194210526A786D698__v2b9ab12d&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    },
+    {
+      "fileName": "Good Day",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003m2Xq60h01p5.ogg?guid=8903120150&vkey=EB1BC114E3F9EC809015E1354119BA21965BCAA79EE1D879EC1C14D8956EACA7E0F2FB5AA085F19DAF9303A29E352FE65C86AF7124038378__v2b9ab131&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    },
+    {
+      "fileName": "Wishing on a star",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000R8P6c0gsNhq.ogg?guid=4893866964&vkey=60C57CCE8B45333B4D954D0005F73F6FF3D810726CFAC194F375F0102E72B8747995E41A105A4A43CA19DDC6F9CFC831FE48CBC15580AA85__v2b94c436&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    },
+    {
+      "fileName": "FOR YOU",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001fBJ112cFE7U.ogg?guid=9079588592&vkey=14402E8EFB65EC6D30CFAAFFC74F5A53162F2CA1C9A2E198F6E1E089254EB5F467BC07C0DF1CC65ACE4E143D3CA1454A1AA099B08EC1ADF2__v2b94c444&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
