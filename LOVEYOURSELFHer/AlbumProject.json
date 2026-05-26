@@ -1,0 +1,76 @@
+{
+  "Album": "LOVEYOURSELFHer",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "LOVE YOURSELF 承 'Her'",
+  "MeshType": "无CD",
+  "SideTitle": "LOVE YOURSELF 承 'Her'",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/a3/0b/49/a30b4920f05310d48fb1ec859602e2cf.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "Intro: Serendipity",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000WH0aR18ddxy.ogg?guid=8519163808&vkey=8176D2DE12377B8FEE2410FBE3A150D0A52322C66EAFE4C16F55AB900B5E7B6AA12A0C7B17B9A35EF37FEA393776BF4908A8CD904F6D7E6A__v2b9ab133&uin=3337423438&fromtag=120532&src=O400004Ei9js03sYgV.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "DNA",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002xqRcH40hjWq.ogg?guid=8794711484&vkey=FC9970CCD73ECFE34581A98BFE53C390337DA2AF4BA4193263FC7A69543AB75F801A9046AB963D375CED5A08CFE8314298AFC03DB84B6535__v2b9ab134&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Best Of Me",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003D85gd2wFtzC.ogg?guid=1624809576&vkey=407C1788766A5AC3B310BE421DA623A290D8F1A1346274237EF73B3822EA64E5AB539A11D996FF657F2D8E16012E4C13BCCA679E00C49273__v2b9ab133&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "보조개 (dimple)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000hYe740qo79q.ogg?guid=6536224560&vkey=49F92296C943593CE6810D80389888B16695F77328AEE782C6A54DA91E6AEB046CA4FCDC2BBE39AA60FDEDF4B77F437FF0FB69A35C5BB166__v2b94c444&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Pied Piper",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003byiqh22M7hq.ogg?guid=1555878320&vkey=649D96786B7EDACE8614594875D3C9CEC2D7CBD4555A7ED36F1E02C316B076746D958AC8D0D9DD4D1BC891E490FBC14ED6959D3D6E4B47B0__v2b9abe89&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Skit: Billboard Music Awards Speech",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002BhjWs2ekXjw.ogg?guid=2490986400&vkey=5555F2DC5C2D99F0E4C2B14EA12B4863373076A696DD493A3A319632B1AA52DF0BB6FC6891733047E08930ACA5485706780E23BCD7E76732__v2b9abe8c&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "MIC Drop",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003mY5DK31mexb.ogg?guid=7400000860&vkey=649558DBED98A8D6CC973BC6002B42BDA3672BB30E3C46B31917CE1CA4DB903DA3ED3BE7427EE023148188824C6579C35769D38EA4D32ED6__v2b9ab12d&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "고민보다 Go (Go Go)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001doefm4ZRG13.ogg?guid=634240242&vkey=BAE1C6BB00102D5732CA04842BCB714012DC2FFC816AA449540FEE2F2102B147A95D36FBDE65768CA8CA6A9A0BD03EBB7D14B2621325C2CD__v2b9abe75&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Outro: Her",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000TFadE3ayOks.ogg?guid=4517208200&vkey=E94881BA472DC8BE0171F0ADDCE95D52713E54844F0ADAD8CE6CA6BAE083D033EA4E39C8091638DF32AE3180B5E06580F398B7753DB5BD7F__v2b94c436&uin=3337423438&fromtag=120532&src=O400003O7vKD2SlSid.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "MIC Drop (Full Length Edition|Steve Aoki Remix)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000023MC6N23aTYt.ogg?guid=5529921054&vkey=80A8D75A0ACEB2DFB51EDB3BBFBCD56F9B8F017D1920DF5C55FACBD9150C5E798D48BEBCB4F49A647BBB5AEF61919C5602FB72AB6E136832__v2b94c436&uin=3337423438&fromtag=120532&src=O400000xRlvk4EfXSt.ogg",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
