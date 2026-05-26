@@ -1,0 +1,45 @@
+{
+  "Album": "TheDreamChapterSTAR",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "The Dream Chapter: STAR",
+  "MeshType": "无CD",
+  "SideTitle": "The Dream Chapter: STAR",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/76/c0/90/76c090126877ff4a10fbd787619f3881.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Blue Orangeade",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000047Skiv4U9hNa.ogg?guid=6573025540&vkey=275EB14CD736F6E16D292D2F7C6B511EF37CD7B4F51B1FF994111DB867673589C6433B979CE9D7052E44A725625D790709F442F8E8DB37B2__v2b9ab134&uin=3337423438&fromtag=120532&src=O400000q8Xl60Qsloo.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "어느날 머리에서 뿔이 자랐다 (CROWN)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000037HCHh3dP1dG.ogg?guid=5857744108&vkey=04D8835BE55E823D3093B71FE592D619E17711480866558C036E5C45E2170020DBF3B0D72E6A544E7275A0CA5037DE310AE4A255717540C2__v2b9ab131&uin=3337423438&fromtag=120532&src=O400001sOpW010R2DD.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Our Summer",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000xTfQZ1wTflj.ogg?guid=9340953224&vkey=D15232C32133819989F06CE90AD6B34AAD13C675CA8EAA8DE9B5B1A366F4DED314B5358F8E12004DFEE8C05A3FE550DE42A36ED719F6F4D9__v21e2a187e&uin=3337423438&fromtag=120532&src=O400001xyPv94aY55a.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Cat & Dog",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003vceHb3TyOYY.ogg?guid=4686949648&vkey=0D15A3288695A7D94B801F8F35BD0777BBB67A72045F4AE9F9ADB17C6BEEA342B40C3FA5A7DF4A87D0D9E590AAD3DC959DF4CC4B7C92AE7A__v2b9ab135&uin=3337423438&fromtag=120532&src=O4000006XFic2RA9yE.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "별의 낮잠 (Nap of a star) (星星的午睡)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004AcFxL4NQWx3.ogg?guid=716670418&vkey=DDA32D9EB7B31C57A3B03EA193FB236CE789C93AE44A9AA818F4DF9ED71D5A916DCA479D5CA652C56B9B4B2674268D10AAD7C669B932CC4F__v2b9ab131&uin=3337423438&fromtag=120532&src=O400001Vn7Nt2V343r.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
