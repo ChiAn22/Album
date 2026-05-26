@@ -1,0 +1,138 @@
+{
+  "Album": "YOUNEVERWALKALONE",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "YOU NEVER WALK ALONE",
+  "MeshType": "无CD",
+  "SideTitle": "YOU NEVER WALK ALONE",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/9c/da/21/9cda218bd20ed340d15be594c0112d61.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/736x/ed/8b/5c/ed8b5c0f4a0cc70719966af227894909.jpg"
+  ],
+  "Discs": [
+    "Side A - WINGS",
+    "Side B - YOU NEVER WALK ALONE"
+  ],
+  "Songs": [
+    {
+      "fileName": "Intro: Boy Meets Evil",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000044zPri47uIP2.ogg?guid=4425750728&vkey=7EF77E4BBDDB754004C88EDC86675F58CCB831331097387E566E7A812347A4C4ED54807E7F2F334A3A9E28C39E660C7C258D829F382F2DBC__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400001J41d23RzCUa.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "피 땀 눈물 (Blood Sweat & Tears)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000038BRYN0aRLD8.ogg?guid=4516331108&vkey=8FB903760BCC74139678BC613C676ABF4C886FCC3087DF96A65C39DD7C6717722B73B757CCA8854911FFE5AC11EC4E422F3506D37825A519__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400001eq9tY1Du8sD.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Begin",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003QXYYs4TZLCw.ogg?guid=7088013547&vkey=34044A8EA01624F711B131487704DAF81F7424194EC6D4C836DA94AF7F3519FCA8658EC0B336192155D65C09A7A33467D291BA43BADEF30F__v21e2a187e&uin=3337423438&fromtag=120532&src=O400004A4b8y0EVFdC.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Lie",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000Imcqc0RIOf1.ogg?guid=3363016885&vkey=91DF86D08CEF0F1F3EE6784C7129A34B9759885A68096577A4D6BD78F950E8470B7FF52E4402AAD7E2A18F16BDB9ACF007803D4A870A4ABE__v2b9ab135&uin=3337423438&fromtag=120532&src=O400002SO2qq4fnunw.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Stigma",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000399SlJ4ByTuQ.ogg?guid=8981954710&vkey=50FDA2305BDC34AADBDCA895F152FF640700F45BBA662F8EF67F72583134D597C1928E4A3A4B644940D82A90704BFCAA714A963A4B2FCDF6__v2b9abe89&uin=3337423438&fromtag=120532&src=O400004di6cC3ZuiIL.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "First Love",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001WPskg0yyJIL.ogg?guid=9841179652&vkey=25AF71694924FCFE38687A926F32284B2F5A43933398EE59C9CC3EFE2D9B2A91CDAD59812B3E2D5B9E969E662BFD9D39F26CECAC9367E219__v2b9ab135&uin=3337423438&fromtag=120532&src=O400000vNPbi1ncEw4.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Reflection",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001F4TAX3opS87.ogg?guid=4975350394&vkey=CDFF9286B2058A7C3242B352D0638C3A1C1E5DFF7186BBA587DF2F6C8FBA7A7510F7C0464CD2F7DB54ED74B22F55529B7C7F559B9B91B5B7__v2b9ab131&uin=3337423438&fromtag=120532&src=O400004LU9eQ16YWbG.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "MAMA",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000013i2WL39jXBY.ogg?guid=3066993940&vkey=E640A057729B095F632EEF9DA3C4047B7EEEAECC2CAD999CF6D89DD521BA049F138BAB1DB9AB350E794A679EFFFBA374BFB8F8C5E5AB6093__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400004dVxzp3GPtxG.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Awake",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003fgtat0jtxlo.ogg?guid=6984003248&vkey=2D09A38A5D2D3E3CEAC9C13A20B25938328818A473E82EFAC65CDC0C8A91EC591F49A9CD603BC3C48453068EE719EC8B513492C9095CEAFF__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400002EG74u1ZqLsL.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Lost",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000gEIRt3QtDX1.ogg?guid=221276448&vkey=803179DE2CD65717C95C7CB74BF04F89F7BFF3D1892A96B4040294ED77A3F9FBF96600969A9EE1902EF49180E274684BDC8826E93FD0A2B1__v2b9abe85&uin=3337423438&fromtag=120532&src=O400003gfEDO31L9w5.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "BTS Cypher 4",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002HAHC80ocRp1.ogg?guid=2991708562&vkey=A1B9265A9B1880809F07C567421ACDF15B22AA57792FA891261EF5CAF91EFC1DD44F1CB1F98088618222B4D58E84897B50A7F91427848236__v2b9abe85&uin=3337423438&fromtag=120532&src=O400003VVNtW3VvX78.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Am I Wrong",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000030dwKM2egIPw.ogg?guid=1701760945&vkey=D9AB26342E6A21154D50D5B0CDD77B6280DEC6C9DB8BE3A549B7DC054196F8DBC60D2386EA3E1A46BA60663B2712C4E23E150EDA128F9EA2__v2b9abe8c&uin=3337423438&fromtag=120532&src=O400000zOBBU13Rp8i.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "21세기 소녀",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003JHKCN0QeqcY.ogg?guid=559529935&vkey=2DCDA4AE8F95DC8F131EF769FD149258864F4CA54476510B80205CBDD99A10B1C99D29F99EBCD88D3B459622C950A2B29D90AFCC32D6F25E__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400003pdVls3rB1Xg.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "둘! 셋! (그래도 좋은 날이 더 많기를)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000S0AsM46gqwq.ogg?guid=9560446992&vkey=D964CA24F31502CE26263EF9F65BA4CEDED91F51E135E47B2391D00926B7EED5C6FBE75D378D87BDA6444C92767DC788946D11C3D420E097__v2b9abe71&uin=3337423438&fromtag=120532&src=O400004XlfFa2wBnx0.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "Interlude: Wings",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003UND0O3jmN2Y.ogg?guid=8128920576&vkey=7B0BC6773F3273C63CF397A88541CB0E0721A696AF4855B2106988EB53E712FD99B7EB6B39F02AE62924001DFED353528F5E26A8AF636663__v2b9abe89&uin=3337423438&fromtag=120532&src=O400003xfzjH0koEPk.ogg",
+      "format": "ogg",
+      "disc": "Side A - WINGS"
+    },
+    {
+      "fileName": "A Supplementary Story : You Never Walk Alone",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004AoAjD2OOA5D.ogg?guid=7312095048&vkey=8E9C13E3959E234AFEB315B3290363859FF2F8FEDCDEC24DA1DED987FC4ACFDA5BC15D0594EA385E73DD6B119ABD4283D6A899B8300669C0__v2b9ab131&uin=3337423438&fromtag=120532&src=O4000002qkTV0Yi6ek.ogg",
+      "format": "ogg",
+      "disc": "Side B - YOU NEVER WALK ALONE"
+    },
+    {
+      "fileName": "봄날",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001KUxpB2fVOyu.ogg?guid=2101508100&vkey=5FB29B954F335245FB1EF438C53027BBD002A7B02D30C2F9BDE9D172CE71520774DB4736048CCADF20EAF1B9180218904765DCFE24BE1B01__v2b94c442&uin=3337423438&fromtag=120532&src=O400001BS0FI27LvPE.ogg",
+      "format": "ogg",
+      "disc": "Side B - YOU NEVER WALK ALONE"
+    },
+    {
+      "fileName": "Not Today",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003NUE8Q4gVBuG.ogg?guid=6462710344&vkey=85E75811521C2989C25D5084E0C39CB75E97B3A083DD28F02A1C4C0623607482269C1973007B6CFC3D942DE9CD62D98868D9EB64C8661F74__v21e2a187e&uin=3337423438&fromtag=120532&src=O400000xSrPi1dYVlD.ogg",
+      "format": "ogg",
+      "disc": "Side B - YOU NEVER WALK ALONE"
+    },
+    {
+      "fileName": "Outro : Wings",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000048bf9S0GS2yv.ogg?guid=9674675556&vkey=7076FF259135B78340FC14ECE69E6E69B34D588888BEE83E10799A47F9DA3673647CEF885CDA663CD8AEC2F6B3228C157A6A96BCB1903941__v2b9ab133&uin=3337423438&fromtag=120532&src=O400004NFl6T0wCbfT.ogg",
+      "format": "ogg",
+      "disc": "Side B - YOU NEVER WALK ALONE"
+    },
+    {
+      "fileName": "Come Back Home",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003bJNRS2WawOj.ogg?guid=7999695463&vkey=8D5C1AB9D71D72C36B320B69CC493625736E70AB0B6A3F64973863CD75C7017D55E24794EB0DE4D0048726DC410EB2FEDE9301D47EC96A84__v2b9abe89&uin=3337423438&fromtag=120532&src=O400000Unw2J3TnSvd.ogg",
+      "format": "ogg",
+      "disc": "Side B - YOU NEVER WALK ALONE"
+    }
+  ]
+}
