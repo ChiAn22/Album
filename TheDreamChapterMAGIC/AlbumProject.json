@@ -1,0 +1,65 @@
+{
+  "Album": "TheDreamChapterMAGIC",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "The Dream Chapter: MAGIC",
+  "MeshType": "无CD",
+  "SideTitle": "The Dream Chapter: MAGIC",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/41/f5/f5/41f5f5ce6c3268390ca42e97981fe92e.jpg",
+  "SlidesUrls": [
+    "https://i.pinimg.com/1200x/f6/22/55/f622552689da8ca534ddaf6a935c86c1.jpg"
+  ],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "New Rules",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000007vXaR3gNo2G.ogg?guid=2061806164&vkey=D6A7B86D19670CBA37621D5C64B5C41CABA0208DF66B77A6EC88839B7BEBCD7E45A867437C89618BA1A27FFDF8F0DE610B270FFCD9853F66__v2b9abe89&uin=3337423438&fromtag=120532&src=O400001bwlSA1tSrfo.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "9와 4분의 3 승강장에서 너를 기다려 (9 and Three Quarters (Run Away)) (ナインアンドスリークウォーターズランアウェイ)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002BJnmm1OG80q.ogg?guid=8399524897&vkey=A3CAC7328EE26727EFE5F96D34321657AC3B60B58249B171488F9812CDD3B22180543D842A52916ADBBBD3633719C918DEBE2AEC199968D2__v2b9abe71&uin=3337423438&fromtag=120532&src=O400000YZSNh3deVb6.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "간지러워 (Roller Coaster) (ローラーコースター)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001n6Gp02hSqoq.ogg?guid=894309431&vkey=A7A5501709BCC9F0DBAC2CB4CCC515541246BADDB0A2CB1FADD637EA2341A245EBCBEE039916E2919E99E64166A7AB75605F674CB66EDB9B__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400000YKn8m37zO2S.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Poppin' Star",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002fTl031lJEOY.ogg?guid=1969958350&vkey=F92EAE77E43029998B3D31F0576B28E46D02D97AC62F3E9AF9D38CA3065FAE30AB343D09A87FB7B56BD54C3F82942412D49078542AE555A4__v2b94c436&uin=3337423438&fromtag=120532&src=O400002xwF1o3xJAyu.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "그냥 괴물을 살려두면 안 되는 걸까? (Can't We Just Leave The Monster Alive?) (キャントウィージャストリーブザモンスターアライブ)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000000LxUC2vmR8o.ogg?guid=5812511365&vkey=0D4629928BCD73007F1CE11134AF48DBF7DFB802DD8F6C0DD8DFC03015AFA8BB35993538557002BCE9D8D1F1E0352E00639F9BB4F62C8035__v2b9abe89&uin=3337423438&fromtag=120532&src=O400001eEyNM0xhA55.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Magic Island",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002xCMUm0hmMPO.ogg?guid=4493864030&vkey=6574DB384328ADBCC46BD0F89D87497B9F71937004E1FDD91620919930DFF279556E4D47515F214CED6045512293B3D6FCF4B3F1E39875E0__v2b9abe71&uin=3337423438&fromtag=120532&src=O400000xvUPJ08kaYX.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "20cm",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000rSiXN423Vw5.ogg?guid=9871807994&vkey=F2D00B1FC2FC020D902C0867F981F1FD2533EE081C61D4566F989E04B38975E8DBC873D5BFF645F5DCBB4837505EDACBA7D7CF3B77486017__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400001uE9Qf2QjQ1l.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Angel Or Devil",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001PBf4w254DuE.ogg?guid=7952864239&vkey=C95701A3D1977C38F1951B2B820C0C754DAF3CF3569277CD877D0AF96401D3D869C71D455AA067E38179EB02909CFA6B67C56088ACE01057__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400004gNH3U2QmXIP.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
