@@ -1,0 +1,51 @@
+{
+  "Album": "TheDreamChapterETERNITY",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "The Dream Chapter: ETERNITY",
+  "MeshType": "无CD",
+  "SideTitle": "The Dream Chapter: ETERNITY",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/fd/91/21/fd9121de1405276d377ae89a5d2108fc.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Drama",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000KEzSC0FDDuE.ogg?guid=4435111681&vkey=D58FBB648EACAA5C053C8E675D1E082F8D1CB94700B66FA14760AA6CCE339BEA59B252BD4052402BBD358CFED8A48B4492159A1BB93CE653__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400000bAYyO2wK91L.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "세계가 불타버린 밤, 우린... (Can't You See Me?)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000044tg782Oc6KI.ogg?guid=1006150752&vkey=32237B8999F43B12F87A46F92A1E08C29959622BA38382214BDBED719038AC3C678EB6B3580491BC96832BB24087C7045C4F9849B1F880C2__v2b9ab134&uin=3337423438&fromtag=120532&src=O400002TZEJq1huecn.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "샴푸의 요정 (Fairy of Shampoo)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000127pLU2sS31c.ogg?guid=1228182505&vkey=A208AE680FBD124A5C0DFE9C6CC4B772B26909F23C5542DDEA62CEAFE03F30828CC50E9956C3C699D4343C93FCE569AB8DD66E5BC3E534A6__v2b9abe85&uin=3337423438&fromtag=120532&src=O400000hAlbM34rzcP.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "거울 속의 미로 (Maze in the Mirror) (镜中迷宫)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000019Zj4b11ekmh.ogg?guid=2028523382&vkey=74BE0345B624D27CBC2752180808FCB2B7B64CCB3BF9F370BBF41CE886770F223B79971A55F6D8AA4F8D8938B5F203864E67E967BC276D79__v2b9ab135&uin=3337423438&fromtag=120532&src=O4000016Ipsi3q7B9h.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "동물원을 빠져나온 퓨마 (PUMA)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000047WbZp3tXCT3.ogg?guid=3899243116&vkey=E89978C2AE75D28B17B578FC7B6D66E662EB9BA7924DE1031309705CCFA88C7CDA740664F418A8C962518DC7C032C6014B79CC04BC8AC166__v21e2a187e&uin=3337423438&fromtag=120532&src=O400000kedhe0CsB8N.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Eternally",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000032382x4CTg3A.ogg?guid=9225767013&vkey=168D6BD6623052D0B1E403D86B015A9538247C22DE7710C9F30D2065B3D65FBD23C166C5788903BD6C142E692F455E88DCEF165218400F6B__v2b9ab133&uin=3337423438&fromtag=120532&src=O400000vq6eH3CDcaZ.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
