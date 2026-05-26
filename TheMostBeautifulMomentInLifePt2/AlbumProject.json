@@ -1,0 +1,69 @@
+{
+  "Album": "TheMostBeautifulMomentInLifePt2",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "화양연화 pt.2",
+  "MeshType": "有CD",
+  "SideTitle": "화양연화 pt.2",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/1200x/25/05/84/250584f1142e88deb120ea55dfe31ffa.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Intro: Never Mind (Live)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004UdZzN07pEoZ.ogg?guid=2761638730&vkey=655EF424309A421E40904F16A212231ED0C83571FE9416A430C7D92C8397C1E11BC280BE75DA3999C1A685C57BCD2B207C0BEE10E747278F__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400003nBrA830n0Z8.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Run",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000aPBFq241DgP.ogg?guid=5930957360&vkey=F8B1EC82C4DACCFD2B5DE2664342C147AB389A8E2A043CF8601040D7933182B1E982F95119FB6F91F23279AD74C4E64A842936A9FD131E1E__v2b94c436&uin=3337423438&fromtag=120532&src=O400001VLePg35bP1p.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Butterfly",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000ojUkW2KMwAl.ogg?guid=26463996&vkey=CD28A2A062CE9AF3ADBDD485D88EE3BD41FF36007C5C26B6245F553A4346C1EFDA29C9F19400F0CAA0D5130FBCF1549D148AA7D31E808362__v2b9abe71&uin=3337423438&fromtag=120532&src=O400001yE9gp4gB6Nq.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Whalien 52",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003UGCA23Fuq5N.ogg?guid=4640974528&vkey=42A4F6F9EF70BAB9469E9672E77B58C01F4460353C5A625DBC90A1096EF830621503D12B5606D0FC5129248ED33522F6EEE394BB0AC88D44__v2b9abe89&uin=3337423438&fromtag=120532&src=O400002K0zPz2CkoWj.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Ma City",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000UXgp81F4o6i.ogg?guid=9794758812&vkey=2435A5A1C2095227F0882B23FDACB5221DA0145BF8B4D48C306585B8D66EF630ED9C18C071FC4371338DD0AAD6EDE2081DC55FAEAC922D5D__v2b9abe71&uin=3337423438&fromtag=120532&src=O400002RgylX1rL664.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "뱁새 (Silver Spoon) (鸦雀)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000117LYo0140iL.ogg?guid=960863894&vkey=D1AA3EF49B0CE9389724B89CFF2B962378BB7192DC22A31C6B3888DED7BFCDFE5F726402AD9648230D7D55AC58C0A73FA911FC86BD6D2994__v2b9abe71&uin=3337423438&fromtag=120532&src=O400002y3dWb3CYma9.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Skit: One Night in a Strange City",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003oa70H0n4vR0.ogg?guid=8448677088&vkey=7BE4176156685B510437CDF3D97921DDA5BA3161D73C897658F6F5BEB1F5488D033B5AC3808D895C8F00F817723A0EE8C6E0F5BDE17F864B__v2b9ab131&uin=3337423438&fromtag=120532&src=O400001HMoiO2vhFKb.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "고엽 (Autumn Leaves) (枯叶)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002Ly4Dw05Lobz.ogg?guid=8689035840&vkey=75A9E3487FC04E9E6C64FA57E29C54042306A08EF9E5A33FC713F970CCDBB8F840D5960841E66A8AE332BD24CE62B1DAAAA4B89F0DBB6320__v2b9ab133&uin=3337423438&fromtag=120532&src=O400004IPgQl3zygiq.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Outro: House of Cards",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001nYKl51MwM2P.ogg?guid=7238527864&vkey=B2AE0DC08341EBB32078374E61FF3E9C669A95B1404FFBFA5B3435B947F60D4FEA2E24329E4A216283E305436D62D8E48F6EA6EE0670F9E2__v2b9abe75&uin=3337423438&fromtag=120532&src=O400001ydDp43RBVhF.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
