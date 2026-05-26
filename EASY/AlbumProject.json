@@ -1,0 +1,52 @@
+{
+  "Album": "EASY",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "EASY",
+  "MeshType": "无CD",
+  "SideTitle": "EASY",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/21/62/67/216267e3c02b242bcafecacae0a05447.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "Good Bones",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002K3ejS15tOAt.ogg?guid=5446945470&vkey=22F6A67AC65D451F81640E59B9FA826A493676133E289B484B0107CA2DA6641FD0AFAC1B6ED5774279B6E140314EB04020186823166D1B69__v2b9abe8c&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "EASY",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000002EB034T8lSL.ogg?guid=5948818294&vkey=36DF17C632FF49F1D36E18A828EF3E0DB42639091BC8E641507EF5BAEFD77747365572A7088DC89CA12D4022978DDDC2AE9779228105521E__v2b94c436&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Swan Song",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000000kkjg0kAm7g.ogg?guid=8175188200&vkey=44C0F0E9B95F7F38087E4F5D8852DD54F334B0DE35741B0103AD072B218737BBF2CC160E68AD792BD5226CFE03FBD2E2D7E73C1E76E6A396__v2b9ab135&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Smart",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001q2aQk3iTPjl.ogg?guid=4977011230&vkey=2E5520905C470A73967ABADEC8D54AD73B04C358A4EF103600B273824DB13CC3F7DFC1A790CA7F61776E320154E1EFB872CCA1DB182DE4C6__v2b94c444&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "We got so much",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002zAjY31fN8WT.ogg?guid=616799040&vkey=5FA414683E7173679A8F780F9D65FFD5D894FD2512940AE56E852C6CBF8C50A831B4F86340B23772A0C166BD226EFA6468B793C8DEBE44B7__v2b9abe71&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Perfect Night",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000006jivg2j3THl.ogg?guid=7665049208&vkey=0BB5BC611F49F8083E199D5CA823F78C203EC2703391D6CB2F1B5D80F1621956BDB1B1F878C6BF3DE9DBE7F016EBBE1718B1C3DA9A86FE40__v2b94c436&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
