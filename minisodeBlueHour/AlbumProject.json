@@ -1,0 +1,45 @@
+{
+  "Album": "minisodeBlueHour",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "minisode1 : Blue Hour",
+  "MeshType": "无CD",
+  "SideTitle": "minisode1 : Blue Hour",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/7e/26/66/7e2666a7c96be678a8504fda3edc1631.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Ghosting",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001gWfcM1UMNMr.ogg?guid=3595659200&vkey=1D3DE3627A814D215FFF3A1AE33299A5281B6A37F1F7E9005146C53112FCD9314BF4B925D9A00617811E31B01CBC01301BACD3257F78FE9C__v2b9ab134&uin=3337423438&fromtag=120532&src=O400002QQGwy2ujeqd.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "5시 53분의 하늘에서 발견한 너와 나 (Blue Hour)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000Rgwvo0bQAOP.ogg?guid=1627752536&vkey=54B53FAC2963FAE650B336AAD9EFEB20A6EE9AA09F9A215C3BD1C0E54D6B2EEE50AE2DADC59AFF0021A44EAED9E481CD5699E74D0DC1A731__v2b9abe89&uin=3337423438&fromtag=120532&src=O400001oKnGo4eqqK5.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "날씨를 잃어버렸어 (We Lost The Summer)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001EUwN62rL9DJ.ogg?guid=4081198172&vkey=4EAF9DB42B26520D234D24F4E079A68B12190DECAC06761FD3C1BAA64583E84DF70017B3F55C08A05DCB4358F46BB387145FD836B1D0AFC3__v2b9ab12d&uin=3337423438&fromtag=120532&src=O400004MOsRa4f9Wt6.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Wishlist",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001fPai33srTFz.ogg?guid=639490968&vkey=CA434997929FDA68EF32D0E4E3943FEF6F907F129B79DF01D46D11E6345054A58A2CA74DBFCE827900A934D63C82C16AB47A1B979ACF808D__v2b9abe8b&uin=3337423438&fromtag=120532&src=O400002c9HVj0foI1a.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "하굣길 (Way Home)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000LWrDr23ComM.ogg?guid=837504652&vkey=CB0D4BD94FAD5CA4629E1ED5AF2C1A2B6FB8D6625869BD68C044FCB6DB81FE65F37E85D18B7A46960E41FADC94F18CB1625E984AC3F9DEC8__v2b9ab135&uin=3337423438&fromtag=120532&src=O400000d98tv2c5j6H.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
