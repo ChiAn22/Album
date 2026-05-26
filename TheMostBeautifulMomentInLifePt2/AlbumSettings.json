@@ -1,0 +1,61 @@
+{
+  "Album": "TheMostBeautifulMomentInLifePt2",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_12:00下午",
+  "Created User": "函桉",
+  "Mesh Type": "有CD",
+  "SideTitle": "화양연화 pt.2",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "화양연화 pt.2",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/1200x/25/05/84/250584f1142e88deb120ea55dfe31ffa.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Intro: Never Mind (Live)",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Intro%3A%20Never%20Mind%20(Live).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Run",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Run.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Butterfly",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Butterfly.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Whalien 52",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Whalien%2052.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Ma City",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Ma%20City.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "뱁새 (Silver Spoon) (鸦雀)",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/%EB%B1%81%EC%83%88%20(Silver%20Spoon)%20(%E9%B8%A6%E9%9B%80).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Skit: One Night in a Strange City",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Skit%3A%20One%20Night%20in%20a%20Strange%20City.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "고엽 (Autumn Leaves) (枯叶)",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/%EA%B3%A0%EC%97%BD%20(Autumn%20Leaves)%20(%E6%9E%AF%E5%8F%B6).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Outro: House of Cards",
+        "SongURL": "https://blue-bubbles.top/Album/TheMostBeautifulMomentInLifePt2/Outro%3A%20House%20of%20Cards.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
