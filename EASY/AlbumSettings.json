@@ -1,0 +1,46 @@
+{
+  "Album": "EASY",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260526_11:35上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "EASY",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "EASY",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/i.pinimg.com/736x/21/62/67/216267e3c02b242bcafecacae0a05447.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Good Bones",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/Good%20Bones.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "EASY",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/EASY.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Swan Song",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/Swan%20Song.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Smart",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/Smart.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "We got so much",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/We%20got%20so%20much.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Perfect Night",
+        "SongURL": "https://blue-bubbles.top/Album/EASY/Perfect%20Night.mp3",
+        "Disc": "Bonus Track"
+      }
+    ]
+  }
+}
