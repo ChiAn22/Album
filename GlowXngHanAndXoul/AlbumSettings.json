@@ -1,0 +1,51 @@
+{
+  "Album": "GlowXngHanAndXoul",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260528_11:23上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Glow - The 1st Mini Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "Glow - The 1st Mini Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/41463/4146335.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Dancing Anyway",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Dancing%20Anyway.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Glow",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Glow.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Light The Fire",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Light%20The%20Fire.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Wishlist",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Wishlist.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Lovin' On Me",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Lovin'%20On%20Me.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Waste No Time",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Waste%20No%20Time.mp3",
+        "Disc": "Bonus Track"
+      },
+      {
+        "SongTitle": "Heavenly Blue",
+        "SongURL": "https://blue-bubbles.top/Album/GlowXngHanAndXoul/Heavenly%20Blue.mp3",
+        "Disc": "Bonus Track"
+      }
+    ]
+  }
+}
