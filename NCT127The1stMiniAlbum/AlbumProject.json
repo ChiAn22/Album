@@ -1,0 +1,64 @@
+{
+  "Album": "NCT127The1stMiniAlbum",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "NCT #127 - The 1st Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "NCT #127 - The 1st Mini Album",
+  "Introduction": "NCT #127, the debut EP of NCT 127, highlights bold experimentation and global collaboration in its production, featuring contributions from LDN Noise, Tay Jasper, Ylva Dimberg, Adrian McKinnon, MZMC, Chris Wahle, Andreas Öberg, Timothy “Bos” Bullock, The Colleagues, and Double Dragon, with SM founder Lee Soo-man as executive producer. Rooted in hip-hop and EDM, the EP blends Moombahton, trap, and tropical house influences. The lead single Fire Truck is driven by aggressive synths and heavy percussion, creating a cold yet explosive atmosphere, while Once Again carries retro-pop sensibilities, Wake Up and Another World emphasize electronic layering and rhythmic drive, Mad City showcases hip-hop intensity with member-written lyrics, and Switch delivers tropical house vibes. Recording and mixing emphasize spatial depth and layering, with vocals processed through harmonies and effects to balance individuality and cohesion. Hip-hop tracks highlight low-end impact, while electronic songs polish high frequencies with synth textures and vocal effects, adding modernity. The production philosophy embraces stylistic diversity to establish NCT 127’s unique sonic identity, presenting international ambition and experimental spirit from the very beginning.\n\nNCT #127作为 NCT 127 的首张迷你专辑，在音乐制作层面展现了极强的实验性与国际化合作，制作团队包括 LDN Noise、Tay Jasper、Ylva Dimberg、Adrian McKinnon、MZMC、Chris Wahle、Andreas Öberg、Timothy “Bos” Bullock、The Colleagues、Double Dragon 等知名制作人，SM 创始人李秀满担任执行制作人。整体风格以 Hip-hop 与 EDM 为核心，融合 Moombahton、Trap、Tropical House 等元素，主打歌《Fire Truck》通过强烈的合成器线条与厚重的鼓点营造出冷峻而爆发力十足的氛围，其他曲目如《Once Again》带有复古流行色彩，《Wake Up》《Another World》强调电子舞曲的层次与节奏律动，《Mad City》突出嘻哈质感并由成员亲自参与歌词创作，《Switch》则展现热带浩室风格。录音与混音注重空间感与层次感，人声通过叠加与效果器处理既突显个人特色又保持整体协调，嘻哈曲目强调低频冲击力，电子舞曲则通过高频合成器与人声修饰营造出现代感。制作理念在于通过跨风格的尝试塑造 NCT 127 独特的声音身份，使其在出道之初就展现出国际化与实验精神。",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/5749/574911.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "Fire Truck",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002erLyC2SGIJ4.ogg?guid=2060748348&vkey=FA6BF20AC678EC129753A674DBA3FFE5B633B2122576F49D0015CE375CC554F162A0C5805343556DF98A2BAFC2C2F8A3B850CCD5648A50AF__v2b9abee1&uin=3337423438&fromtag=120532&src=O400003XQsu40YeW91.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Once Again",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003yzKWz43YINF.ogg?guid=7859929576&vkey=95349159FEF4B44CA64E5190C0BC06F7EA0C36B22BAA1FE241C2DC3255357F48569C4A0539FC102BBD12C35D5A38B0FCB8E48E36CD396F06__v2b9ab13a&uin=3337423438&fromtag=120532&src=O400004IZyvy0Yd3Gc.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Wake Up",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002yGdfD07PjPF.ogg?guid=116897916&vkey=9B747CCFCA00B033436BF5B04E4B5EA5216639A3056471F70D88EFD00C10F3752A04ED763649653B1E0A023A5B67A73B1966CE3D29C7B84B__v2b9abee0&uin=3337423438&fromtag=120532&src=O400002045xP2tX3Nf.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Another World",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000031XK7B04jauk.ogg?guid=3084669650&vkey=C86641F1CB6E053AA3BBF08EFA532EC5D31C8E98BF55DB350E58D7CCE3DF248DE2162282505789B6529CEDB5F3929FF84AE21398313AED51__v2b9ab13b&uin=3337423438&fromtag=120532&src=O400003UZfHY0vhZ4U.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Paradise",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004VIDyJ1gjv9Y.ogg?guid=774267144&vkey=036A9B22E4E9B73D3FDBFE9D5BAD7E119ED10169042BED26DA4BE83467F6E44B8CCE93931A6F6316021C87C695B3D4E9897100C5CAA98A66__v2b94c6b3&uin=3337423438&fromtag=120532&src=O400004OuPL51R4OF0.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Mad City",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000033tsAQ1Fy9VC.ogg?guid=77589104&vkey=AFC74E625B8FA7CE9BC80C6EF8918AEFACC4D0F3F526092D1B4032C4CA87CD1D8EB80F07FF20610938B42BC152F7D20D0CA890DAF1F264C0__v2b94c3b2&uin=3337423438&fromtag=120532&src=O400000l64SP2xrWBn.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Switch",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000008uvfS0IFfC8.ogg?guid=9601432324&vkey=8E35796B02378BA4150ED800949A23064B1E9D3F78651393919F282DC2759740A4F7672B49206E89607E49EC35CF450706471611EB0A4B91__v2b9abee0&uin=3337423438&fromtag=120532&src=O400004etsn73TsvFL.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Taste The Feeling",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000193BdZ3Idu2w.ogg?guid=9033726562&vkey=DFF2B0911104004845537B3B8935B00B8593CFFD162F0AF42DF76ED86E6AD204F80B6ECF24A99BC5E3CDC2D6C3ADB2496AA708081A1C7170__v2b9ab13a&uin=3337423438&fromtag=120532&src=O4000020evgt0TqKvt.ogg",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
