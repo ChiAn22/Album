@@ -1,0 +1,41 @@
+{
+  "Album": "Chain",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260528_12:51下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Chain - Japan EP",
+  "Introduction": "Chain, released on May 23, 2018, marked NCT 127’s Japanese debut and showcased a fusion of J-pop, hip-hop, R&B, and electropop, produced by an international team including Caesar & Loui, Harvey Mason Jr., Kenzie, Mike Daley, Andrew Choi, Deez, MZMC, Patrick “J Que” Smith, 250, Albin Nordqvist, Kevin Randolph, Kanata Okajima, and Mitchell Owens, with Lee Soo-man as executive producer. The title track Chain emphasizes layered synths and hip-hop beats, delivering futuristic energy and a lyrical concept of “connection and expansion.” Dreaming opens with light melodies and electronic textures, Limitless (Japanese Ver.) adapts the Urban R&B style with localized lyrics, Come Back blends R&B and electronic elements and later expanded into Korean and Chinese versions, while 100 drives with heavy beats and synths, embodying dance energy. Recording and mixing highlight spatial depth and dynamic balance, with vocals layered and processed to preserve individuality while achieving cohesion. Low frequencies enhance impact, while high frequencies are polished with electronic effects and harmonies, adding modernity and spaciousness. Overall, Chain reflects NCT 127’s ambition to establish a global identity through experimental and internationally collaborative production.\n\nNCT 127 的日语迷你专辑《Chain》于 2018 年 5 月 23 日发行，是他们在日本的正式出道作品，音乐制作层面展现了跨国合作与多元风格的融合，整体以 J-pop、Hip-Hop、R&B 与 Electropop 为核心，制作团队包括 Caesar & Loui、Harvey Mason Jr.、Kenzie、Mike Daley、Andrew Choi、Deez、MZMC、Patrick “J Que” Smith、250、Albin Nordqvist、Kevin Randolph、Kanata Okajima、Mitchell Owens 等国际与本土音乐人，SM 创始人李秀满担任执行制作人。\n\n《Chain》在编曲上强调合成器与节奏的层次感，主打歌《Chain》通过强烈的电子音效与嘻哈节奏营造出未来感与力量感，歌词传递“连接与扩展”的概念，呼应 NCT 的全球化定位；《Dreaming》以轻快的旋律与电子质感开场，展现梦幻氛围；《Limitless (Japanese Ver.)》延续原版的 Urban R&B 风格，加入日语歌词后更贴近本地市场；《Come Back》由多位国际制作人参与，融合 R&B 与电子元素，后续还推出了韩语与中文版本，凸显跨文化的延展性；《100》则以强烈的节奏驱动与电子合成器为主，展现出舞曲的能量感。录音与混音方面，专辑注重空间感与动态范围的平衡，人声通过叠加与效果器处理既保留成员的个人特色又形成整体的协调，低频部分突出以增强冲击力，高频部分则通过电子音效与和声修饰营造出现代感与空间感。",
+  "Form": {
+    "AlbumTitle": "Chain - Japan EP",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/201670/20167060.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Dreaming",
+        "SongURL": "https://blue-bubbles.top/Album/Chain/Dreaming.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Chain",
+        "SongURL": "https://blue-bubbles.top/Album/Chain/Chain.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Limitless",
+        "SongURL": "https://blue-bubbles.top/Album/Chain/Limitless.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Come Back",
+        "SongURL": "https://blue-bubbles.top/Album/Chain/Come%20Back.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "100",
+        "SongURL": "https://blue-bubbles.top/Album/Chain/100.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
