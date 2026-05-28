@@ -1,0 +1,56 @@
+{
+  "Album": "NCT127The1stMiniAlbum",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260528_12:39下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "NCT #127 - The 1st Mini Album",
+  "Introduction": "NCT #127, the debut EP of NCT 127, highlights bold experimentation and global collaboration in its production, featuring contributions from LDN Noise, Tay Jasper, Ylva Dimberg, Adrian McKinnon, MZMC, Chris Wahle, Andreas Öberg, Timothy “Bos” Bullock, The Colleagues, and Double Dragon, with SM founder Lee Soo-man as executive producer. Rooted in hip-hop and EDM, the EP blends Moombahton, trap, and tropical house influences. The lead single Fire Truck is driven by aggressive synths and heavy percussion, creating a cold yet explosive atmosphere, while Once Again carries retro-pop sensibilities, Wake Up and Another World emphasize electronic layering and rhythmic drive, Mad City showcases hip-hop intensity with member-written lyrics, and Switch delivers tropical house vibes. Recording and mixing emphasize spatial depth and layering, with vocals processed through harmonies and effects to balance individuality and cohesion. Hip-hop tracks highlight low-end impact, while electronic songs polish high frequencies with synth textures and vocal effects, adding modernity. The production philosophy embraces stylistic diversity to establish NCT 127’s unique sonic identity, presenting international ambition and experimental spirit from the very beginning.\n\nNCT #127作为 NCT 127 的首张迷你专辑，在音乐制作层面展现了极强的实验性与国际化合作，制作团队包括 LDN Noise、Tay Jasper、Ylva Dimberg、Adrian McKinnon、MZMC、Chris Wahle、Andreas Öberg、Timothy “Bos” Bullock、The Colleagues、Double Dragon 等知名制作人，SM 创始人李秀满担任执行制作人。整体风格以 Hip-hop 与 EDM 为核心，融合 Moombahton、Trap、Tropical House 等元素，主打歌《Fire Truck》通过强烈的合成器线条与厚重的鼓点营造出冷峻而爆发力十足的氛围，其他曲目如《Once Again》带有复古流行色彩，《Wake Up》《Another World》强调电子舞曲的层次与节奏律动，《Mad City》突出嘻哈质感并由成员亲自参与歌词创作，《Switch》则展现热带浩室风格。录音与混音注重空间感与层次感，人声通过叠加与效果器处理既突显个人特色又保持整体协调，嘻哈曲目强调低频冲击力，电子舞曲则通过高频合成器与人声修饰营造出现代感。制作理念在于通过跨风格的尝试塑造 NCT 127 独特的声音身份，使其在出道之初就展现出国际化与实验精神。",
+  "Form": {
+    "AlbumTitle": "NCT #127 - The 1st Mini Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/5749/574911.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Fire Truck",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Fire%20Truck.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Once Again",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Once%20Again.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Wake Up",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Wake%20Up.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Another World",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Another%20World.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Paradise",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Paradise.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Mad City",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Mad%20City.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Switch",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Switch.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Taste The Feeling",
+        "SongURL": "https://blue-bubbles.top/Album/NCT127The1stMiniAlbum/Taste%20The%20Feeling.mp3",
+        "Disc": "Bonus Track"
+      }
+    ]
+  }
+}
