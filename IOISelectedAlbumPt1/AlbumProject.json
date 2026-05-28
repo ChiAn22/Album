@@ -1,0 +1,57 @@
+{
+  "Album": "IOISelectedAlbumPt1",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "I.O.I Selected Album pt.1",
+  "MeshType": "无CD",
+  "SideTitle": "I.O.I Selected Album pt.1",
+  "Introduction": "",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/41478/4147898.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "I.O.I"
+  ],
+  "Songs": [
+    {
+      "fileName": "IOI （Where My Girls At）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001f06OD0mXBPK.ogg?guid=7674264651&vkey=B0C1A240EBAE22140EA3BC96E7930AB2A1C8565E2E24F1DFF3093B8954F38341C1CC7BAAD28431DAA9FBBBA35E2ED42008685D4014E3F898__v2b94c6b3&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Very Very Very",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002WHR2V43OqfP.ogg?guid=4739542960&vkey=4DA5CE057DE49A230F112D6F6E5B53CC4E3B7DCA50032D31F7F32F3DF8A72FE8604995D6F239859033BD593EB33926B071D179D35F39CF51__v2b9abedd&uin=3337423438&fromtag=120532&src=O400004Mhr0e3ilUWj.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Dream Girls",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002JAqPg3kSIN5.ogg?guid=3872634788&vkey=0F5C9658201613E051E442302858CD8DEEF1B8EECE24136D5B521EBE6A3DA98D2FB628001500261C6EC0849F45A2BC4C8BC65020E1805D57__v2b94c3b2&uin=3337423438&fromtag=120532&src=O400004Cedf41q13tx.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Whatta Man",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003lQtsz2vlkwc.ogg?guid=8735202050&vkey=46C3F451099ECFED9FECB7C5530DF78760F3982FA8DBF098B6D5C715A5CDF1C1DB792DA2CB3E59D8B946B4AA9866B87769E95EAA2702DCA1__v2b9ab13b&uin=3337423438&fromtag=120532&src=O400003rx9p81owZzc.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Crush",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003PKkQt4SPtSK.ogg?guid=7808479792&vkey=6D81B6BF5C4F21A89AF70BE974948EAAB158D64207AD9720263998DC30D5067725A07FEAD4B3772F64861400D01DDCC8F7AFFA9DB60B3B25__v2b9abee1&uin=3337423438&fromtag=120532&src=O400004H74PU1ydt2B.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Pick Me",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001CKqlK3a3i9h.ogg?guid=3660671574&vkey=A9B152EFEE8954EFB9AFF46F3FBBD7931E7377F61E9EED710F570C7AC779FFBC45A419A20E242070BA09F305FD744E654E170548F5ECF304__v2b94c6b3&uin=3337423438&fromtag=120532&src=O400000crluO4RyGiT.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    },
+    {
+      "fileName": "Suddenly",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003FYLRo1Ur9eG.ogg?guid=183276404&vkey=3A61478E2409A8AC8D5BCD217EF2D5C8EA7BC87001ABCD08FC766C1C4A66987E1862DB33A44E2A8B840E5AF866F5B85BED65BCBC0602D418__v2b9ab13a&uin=3337423438&fromtag=120532&src=O400000PWkSS32y8u1.ogg",
+      "format": "ogg",
+      "disc": "I.O.I"
+    }
+  ]
+}
