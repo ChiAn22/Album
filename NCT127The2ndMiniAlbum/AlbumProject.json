@@ -1,0 +1,51 @@
+{
+  "Album": "NCT127The2ndMiniAlbum",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "NCT #127 Limitless - The 2nd Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "NCT #127 Limitless - The 2nd Mini Album",
+  "Introduction": "NCT #127 Limitless, the group’s second mini album, demonstrates a more mature and globally oriented production style, with contributions from Kenzie, Harvey Mason Jr., The Stereotypes, August Rigo, LDN Noise, and others, under the executive production of Lee Soo-man. Rooted in Urban R&B and Hip-Hop, the album also incorporates electronic pop and ballad elements. The title track Limitless features aggressive synths, heavy beats, and layered harmonies, creating a cold yet explosive atmosphere while lyrically reflecting NCT’s concept of infinite expansion. Good Thing delivers urban electronic pop textures produced by Justin Gray and Steve Daly, Back 2 U (AM 01:27) is an R&B ballad crafted by The Stereotypes and August Rigo, highlighting emotional vocals and ad-libs, Heartbreaker blends electronic pop with futuristic synths to depict youthful infatuation, Baby Don’t Like It combines 808 bass with dreamy atmospheres to portray dangerous attraction, and Angel is led by acoustic guitar, offering a warm and sweet love song. Recording and mixing emphasize spatial depth and layering, with vocals processed through harmonies and effects to balance individuality and cohesion. Hip-hop tracks highlight low-end impact, while ballads and electronic songs polish high frequencies with synth textures and vocal effects, adding modernity and spaciousness.\n\nNCT 127 的第二张迷你专辑《NCT #127 Limitless》在音乐制作层面展现了更成熟与国际化的声音构建，制作团队包括 Kenzie、Harvey Mason Jr.、The Stereotypes、August Rigo、LDN Noise 等知名音乐人，SM 创始人李秀满担任执行制作人。整体风格以 Urban R&B 与 Hip-Hop 为核心，同时融合电子流行与抒情元素，主打歌《Limitless》通过强烈的合成器线条、厚重的鼓点与多层次和声营造出冷峻而爆发力十足的氛围，歌词呼应 NCT 的“无限扩展”理念，强调未来抱负。《Good Thing》由 Justin Gray、Steve Daly 等人参与制作，带有都市感的电子流行质感，表现逃离都市压迫的主题；《Back 2 U (AM 01:27)》由 The Stereotypes 与 August Rigo 制作，抒情 R&B 风格，成员的悲伤歌声与即兴高音凸显分手后的冷静决心；《Heartbreaker》融合电子流行与未来感合成音，歌词描绘青少年单恋的起伏；《Baby Don’t Like It》由 Tay Jasper、MZMC 等参与，结合 808 Bass 与梦幻氛围，歌词比喻陷入致命魅力；《Angel》则以原声吉他为主导，营造轻快温暖的情歌氛围。录音与混音方面，专辑注重空间感与层次感，人声通过叠加与效果器处理既突显个人特色又保持整体协调，嘻哈曲目强调低频冲击力，抒情与电子曲目则通过高频合成器与人声修饰营造出现代感与空间感。",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/6117/611771.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "LIMITLESS",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000OHSqb3WZ2BR.ogg?guid=3013993493&vkey=EDC9452912B18052FE42BEDF6ABAB8C3BA70449DC524760B30CF8D92DF277C8D3012473589E4DB94924CD522A860BB3315C75CDD299A4330__v2b9abee0&uin=3337423438&fromtag=120532&src=O400003xNMuR3r9u2e.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Good Thing",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001zDFap4annN1.ogg?guid=6261080190&vkey=F298075F2CDF4F71A48DF7E54C28EB3B768B69491F0EFFC1DBE3A464DEC32062FC022075C880E0009D843A0C4D409E86562BB11FDC982682__v2b94c3b2&uin=3337423438&fromtag=120532&src=O400000xsZzo1fhAIs.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Back 2 U （AM 0127）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003gtTP03G0eHZ.ogg?guid=8974308735&vkey=0BC801CCC3B731D6FC2E05EF715CD11A671F848408F3DAA1272CDDB8441CFC8FA22245C458F3F07B2BB12687327A65D4C6FEB4EE5ADFF368__v2b9ab13b&uin=3337423438&fromtag=120532&src=O400003uf5pT2seMob.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Heartbreaker（Roller Coaster）",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003jlXI92gXvUt.ogg?guid=5610598590&vkey=92CA1C1FD4BA003F95E3738B55BF11F8D600A7FA1323EC7370BBF97680ECE6E950341AE58FD51C75B8F34BB7938E0DF08084ECEB8D306DEB__v2b9ab13a&uin=3337423438&fromtag=120532&src=O400002ezroE4MD7q1.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Baby Don’t Like It",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003ARMVe2HxBOW.ogg?guid=4098161705&vkey=0D5BF82B2A6CDBE43FA473651E37C7D07D35EFC2BD425804ED086AA0CEB631BA5834C70D5DBBDF696423D3780DA7B9C427E815801EC26741__v21e2a17e9&uin=3337423438&fromtag=120532&src=O4000043On8Q3sSDh7.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Angel",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000beey82Vmk4w.ogg?guid=3445635415&vkey=BDA0FB40B767B850A2E9D65EDE4DA928F41C0714F562B8357120683A3605995F30A39BD994F29967760D142EBCA29D5F941D9DB8324BA3B1__v2b9ab146&uin=3337423438&fromtag=120532&src=O400004ctE1I0mZllA.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
