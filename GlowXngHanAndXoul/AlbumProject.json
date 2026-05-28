@@ -1,0 +1,58 @@
+{
+  "Album": "GlowXngHanAndXoul",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Glow - The 1st Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "Glow - The 1st Mini Album",
+  "Introduction": "",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/41463/4146335.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "Dancing Anyway",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000018fQM61GMQ67.ogg?guid=7193288308&vkey=AB32F547AF4F228A76401E32D67504B84494EB3AFF78484128928B7A6EA8EE464C3A743F67D16012D227F7786580ACC551A4CF6F992CD0D1__v21e2a17e9&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Glow",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000NL8WB0R6AfQ.ogg?guid=9268405920&vkey=A6491A79A3831DBE5F64D97E6AC1B982D7286D320EF48A72E3F0EB306AEC87CAD1EF11878DBCF4348C1454C0D0BBCEBA429F38FCB7AE73A8__v2b94c553&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Light The Fire",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000004S8QH1BriwZ.ogg?guid=4986891875&vkey=7EC0DA3EC48D9BBAEB40DEC2B93F254B52CC3BDC43931E0E52E6AA542072DECE95FCE83C7FDEB63A97186B57030BCCB56A41999EAD69DAE0__v2b9ab146&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Wishlist",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000037YtAM2KW3KP.ogg?guid=3591510278&vkey=8C8CDC84A76C5105D01567702B09297C53EDF0C5A7DBA8FB39B99B04FF6CAC3A1DA3E5AEE2660B9559D18D98DE1A5F59BF2D189DD8BF4EF9__v2b94c6b3&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Lovin' On Me",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003aubyn0Zi2fU.ogg?guid=389131547&vkey=EF3BF87D7CB0052D1522EF9C3032A06F488EE7FA58B8A0948A5BB18AC07F4E8E5EFB31E4D4C5B79899ACE96AC31A1D8703148A78222CF6F3__v2b9ab13a&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Waste No Time",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000vJCsD4VYUtc.ogg?guid=2370961748&vkey=C642D8E57B60E3E4656819DF8BC01324C657BA17936FE324EE7938CF8CA5D79D92DA2B1D01B97E666C8F58F09BCDB24A5B2E4912D4D2F085__v21e2a17e9&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    },
+    {
+      "fileName": "Heavenly Blue",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000040zUti2o3Err.ogg?guid=7105294050&vkey=BF16CF6069B41F77247006A5845C05CD839183A46A3CB675E3AC94442B71B0D44710EA9CBE147D337685EC5327F8B8CD883694FD049A0303__v21e2a17e9&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
