@@ -1,0 +1,45 @@
+{
+  "Album": "Chain",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Chain - Japan EP",
+  "MeshType": "无CD",
+  "SideTitle": "Chain - Japan EP",
+  "Introduction": "Chain, released on May 23, 2018, marked NCT 127’s Japanese debut and showcased a fusion of J-pop, hip-hop, R&B, and electropop, produced by an international team including Caesar & Loui, Harvey Mason Jr., Kenzie, Mike Daley, Andrew Choi, Deez, MZMC, Patrick “J Que” Smith, 250, Albin Nordqvist, Kevin Randolph, Kanata Okajima, and Mitchell Owens, with Lee Soo-man as executive producer. The title track Chain emphasizes layered synths and hip-hop beats, delivering futuristic energy and a lyrical concept of “connection and expansion.” Dreaming opens with light melodies and electronic textures, Limitless (Japanese Ver.) adapts the Urban R&B style with localized lyrics, Come Back blends R&B and electronic elements and later expanded into Korean and Chinese versions, while 100 drives with heavy beats and synths, embodying dance energy. Recording and mixing highlight spatial depth and dynamic balance, with vocals layered and processed to preserve individuality while achieving cohesion. Low frequencies enhance impact, while high frequencies are polished with electronic effects and harmonies, adding modernity and spaciousness. Overall, Chain reflects NCT 127’s ambition to establish a global identity through experimental and internationally collaborative production.\n\nNCT 127 的日语迷你专辑《Chain》于 2018 年 5 月 23 日发行，是他们在日本的正式出道作品，音乐制作层面展现了跨国合作与多元风格的融合，整体以 J-pop、Hip-Hop、R&B 与 Electropop 为核心，制作团队包括 Caesar & Loui、Harvey Mason Jr.、Kenzie、Mike Daley、Andrew Choi、Deez、MZMC、Patrick “J Que” Smith、250、Albin Nordqvist、Kevin Randolph、Kanata Okajima、Mitchell Owens 等国际与本土音乐人，SM 创始人李秀满担任执行制作人。\n\n《Chain》在编曲上强调合成器与节奏的层次感，主打歌《Chain》通过强烈的电子音效与嘻哈节奏营造出未来感与力量感，歌词传递“连接与扩展”的概念，呼应 NCT 的全球化定位；《Dreaming》以轻快的旋律与电子质感开场，展现梦幻氛围；《Limitless (Japanese Ver.)》延续原版的 Urban R&B 风格，加入日语歌词后更贴近本地市场；《Come Back》由多位国际制作人参与，融合 R&B 与电子元素，后续还推出了韩语与中文版本，凸显跨文化的延展性；《100》则以强烈的节奏驱动与电子合成器为主，展现出舞曲的能量感。录音与混音方面，专辑注重空间感与动态范围的平衡，人声通过叠加与效果器处理既保留成员的个人特色又形成整体的协调，低频部分突出以增强冲击力，高频部分则通过电子音效与和声修饰营造出现代感与空间感。",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/201670/20167060.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Dreaming",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001CV9j50hH9ow.ogg?guid=8204734590&vkey=B2C02FF7BD9A1D2F1AF1B00F30849C9BBDED5226A7D28BDA08CECC30C15A2DAEAA92FCF03F77E0D290C17C9E20C702827195865159530EA9__v21e2a17eb&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Chain",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000015OACJ3MenZF.ogg?guid=9215754079&vkey=599FA66288C9619E718CFB3F3E998A749CDFD634252689E90906EAE42DFCEC209763F448582FE3E4867B90D277B60911522D9EECECC1874B__v2b94c149&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Limitless",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000N5Ofw2e9VXD.ogg?guid=7612080441&vkey=95902BE208E9A013150C66F187D59ECF9E3E393F4D4C4DB26C61E4FDA586B4BFCBCEC6994E823B117C3ADD7A3509DEE8A64D5A471F755153__v2b9abedd&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Come Back",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000034fhAs3RkATZ.ogg?guid=1618482120&vkey=3AB9BA0C2F8D91B213445C3EB70F19AEF73E0FA415765AD38995616B11F054EDE4D47DB2C6EEF96F1F4D37E39B9A98046BF56F8E144489C7__v2b94c3b2&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "100",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000044LPu0RlVTA.ogg?guid=8584976140&vkey=750F44E878C857C8FC7482BA59C7C8AD39A6EE5C3103E597A509D4B08A4D7E0B2EB30EAA82856D2441444748C90F60F99DE286CE932E5931__v2ba82023&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
