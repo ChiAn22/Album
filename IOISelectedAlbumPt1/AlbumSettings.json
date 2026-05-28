@@ -1,0 +1,51 @@
+{
+  "Album": "IOISelectedAlbumPt1",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260528_11:16上午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "I.O.I Selected Album pt.1",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "I.O.I Selected Album pt.1",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/41478/4147898.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "IOI （Where My Girls At）",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/IOI%20%EF%BC%88Where%20My%20Girls%20At%EF%BC%89.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Very Very Very",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Very%20Very%20Very.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Dream Girls",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Dream%20Girls.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Whatta Man",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Whatta%20Man.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Crush",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Crush.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Pick Me",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Pick%20Me.mp3",
+        "Disc": "I.O.I"
+      },
+      {
+        "SongTitle": "Suddenly",
+        "SongURL": "https://blue-bubbles.top/Album/IOISelectedAlbumPt1/Suddenly.mp3",
+        "Disc": "I.O.I"
+      }
+    ]
+  }
+}
