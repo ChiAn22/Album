@@ -1,0 +1,51 @@
+{
+  "Album": "Delight",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260528_12:24下午",
+  "Created User": "函桉",
+  "Mesh Type": "无CD",
+  "SideTitle": "Delight - The 2nd Mini Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "Delight - The 2nd Mini Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/203271/20327149.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "Candy",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Candy.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "R U Ridin'?",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/R%20U%20Ridin'%3F.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Bungee",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Bungee.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Underwater",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Underwater.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Poppin'",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Poppin'.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Ghost",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Ghost.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Love Again",
+        "SongURL": "https://blue-bubbles.top/Album/Delight/Love%20Again.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
