@@ -1,0 +1,57 @@
+{
+  "Album": "Delight",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "Delight - The 2nd Mini Album",
+  "MeshType": "无CD",
+  "SideTitle": "Delight - The 2nd Mini Album",
+  "Introduction": "",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/203271/20327149.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Candy",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000043KTeP0TyFo4.ogg?guid=6390315224&vkey=F0A4B93CDEB05C354BCD32C5F8057D70D3D7EC07E35D8DBA4DE33D4F9E50E64B10B025870B17B6B4A834C32A41E12B449D467BFE98D17720__v2b94c3b2&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "R U Ridin'?",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004J9skN0fobs3.ogg?guid=819312850&vkey=58F8034536C7F4696799B3A26F4F79E8777651EFCF9C2FFDF124A1513F826D181A0035829D3FBB41D1F891F8FD02960E33A8D2AF94FD8B52__v2b9abedd&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Bungee",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003LJ3BG2NmNnu.ogg?guid=6418425012&vkey=4A4EE54FD249BA5695CCB53206752A8270A080BD2CED486A4017C5346B881926A837BE448CD1AACC05F1B60AAA34BA4EF5B5DF51BE1487C0__v2b9abede&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Underwater",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001Xec9U0Jb41P.ogg?guid=7710966793&vkey=3106262E241717BA8CBF7A6CAD1B0BCCA1ECAC98B6BBE18DAB554DAB8CE947636537AF8780427097CDFBF880298322ED7085F991675167E1__v2ba82023&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Poppin'",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000424OHu0QRDWE.ogg?guid=3119242441&vkey=54B0E9E6FB6EE9D9A05AF01350B993D2A52AB4B2CDB5B8070189D7F051DB4B019B96CFEAF08C8C9A1088B19480CAC32319C8E71ACEB87AD2__v2b94c149&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Ghost",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001en9Hi3gszvG.ogg?guid=3948167371&vkey=16C48ECE001E09AD6A3CE15A1722C10571C43BA745A91A632FCF2DA2EFDDB2609C5E665C5B1431FF19F5177AA698CF68CED56554DDCCF2EC__v2b9abede&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Love Again",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002Sjbkx0DB8mv.ogg?guid=2147610598&vkey=3DA60FF6540FB2A010DD8890AED6FC911A65D3492ABCABA56B3D3FEFBD278171086B2561986F6C4B33E23A17F558C0471662E4FD6277035C__v2b9ab13b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
