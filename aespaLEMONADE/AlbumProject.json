@@ -1,0 +1,75 @@
+{
+  "Album": "aespaLEMONADE",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "LEMONADE - The 2nd Album",
+  "MeshType": "有CD",
+  "SideTitle": "LEMONADE - The 2nd Album",
+  "Introduction": "",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/41471/4147162.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "WDA (Whole Different Animal) (Feat. G-DRAGON)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001c5R4P24AH67.ogg?guid=1159943804&vkey=5600DC040C26CCC73C6F731295C971571F3A451A1C748517F1A38472FCBBB6E3FA67C5CF9307E2C0435806AFE77D02AFB3150B8A77B685CA__v215257f0b&uin=3337423438&fromtag=120532&src=O400001BFGhV0bOUcN.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "LEMONADE",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000NVIwc0ezTOD.ogg?guid=5125829256&vkey=860E8EB9B6ECEFE898584918A7DABC13CEE340A3885D7657DB90D44E7E0573D41C536305CA8C4F0272AA25DFDF80FAA487D4EBDD62AD8F32__v215192c9b&uin=3337423438&fromtag=120532&src=O400001k5V6e1PGSW2.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "SHAKIN'",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000foouG3qtsyu.ogg?guid=2909710825&vkey=A38615C087C38FEA02E2B2D4BCCF5AF1B8B8316C1CB57C3C253490A6A2A57903971100A0239D0C0EAECED67C4697411DACE022B2733CB52F__v215192c9b&uin=3337423438&fromtag=120532&src=O400000NPaDE0b1koL.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Can't Help Myself",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001VaJgb0g3nW9.ogg?guid=7859731298&vkey=A4DB4DF40E0168BDC19C2BB7E4B5704852B9EA1AD07F0F4D4EA404EE36905BE6780DE1C74A81680B7AE5DB35CA7730C4AD86A052D6CE1CF0__v21ea05867&uin=3337423438&fromtag=120532&src=O400001jYccz2BvMAR.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Camouflage",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001ThaOk1znVQc.ogg?guid=7559472640&vkey=9DFBD48FEC92D20B3167249BDAE8DC531183D3E35524DBF5A52483C3065732289D315FB63863F51B1F7AEADF52BAB3F5F9D7E1D25913CEA5__v21eb7e5d0&uin=3337423438&fromtag=120532&src=O400001T7fLq2lnLR8.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Bite",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000REBfl2EVPlV.ogg?guid=1459676960&vkey=D44CDA734F19B363865CB2B733590A19DECF3BB5B04E87EB56CC2F2470BA6A85CBE77658D92BC2F97D9651E525FBB523DFF97A9500084BA6__v21ea05a35&uin=3337423438&fromtag=120532&src=O400001m6Cpc2OJrge.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Switchblade (Feat. Ty Dolla $ign)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001AGBL93ViVUU.ogg?guid=275613504&vkey=9509CCDA087FF70ECCB4DDD595E2FD9EF3F5B5FE6A40C31315C276C5D2FD2558A15BA79705F9F0618B9BF3854D96645DC9961F650B57C384__v21ea05867&uin=3337423438&fromtag=120532&src=O400002vnn6o4QMRkn.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Roll",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000kTWCR1yqgj4.ogg?guid=8565146426&vkey=A0C1DD65DA60124BCBEF0D0714F5F12FBBB70E041EC2CBE9D082C3FAF1304C7A925EDF831E5E8186BAABA8AA8286CE4FE2D01D9D4F0D26D1__v215192c9b&uin=3337423438&fromtag=120532&src=O400001JEfds16E6Z1.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "My Plan",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004N4Ejq2UEO9r.ogg?guid=5463756990&vkey=5CF4654B23CE6BB5851C88AB37634EB0DF2F31C6A3D5580037D687A1634D37ECD5EAA1DB2541853441E5AA1873584482D3CB516D8752107B__v2b967b14&uin=3337423438&fromtag=120532&src=O400003S6UOr3D7rf8.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "'Til We Die",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003TMibS41T4rd.ogg?guid=4467227191&vkey=0DAEC3DE4F0C2D951917C30A0B185EA7BD0EABE58022185666FA5B09D53B7F8CCFE1B00F2681F46EA5CF16F67BCE8469F16DE8789F85BBED__v215df328e&uin=3337423438&fromtag=120532&src=O40000360vXs0ThA0V.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
