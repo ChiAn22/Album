@@ -1,0 +1,82 @@
+{
+  "Album": "JungKookGOLDEN",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "GOLDEN",
+  "MeshType": "无CD",
+  "SideTitle": "GOLDEN",
+  "Introduction": "",
+  "CoverUrl": "https://image.bugsm.co.kr/album/images/1000/40927/4092706.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album",
+    "Bonus Track"
+  ],
+  "Songs": [
+    {
+      "fileName": "3D (feat. Jack Harlow)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004ANKe81nBbt9.ogg?guid=2097403656&vkey=0F1BC1C33567E5CF329F4574ABB8175D97FB83E0D62773E62ACE860A4DF58FD82D2AD11F4FDDB301C1F0D8C93B8D2218663FF3BBB78F4509__v21ea058be&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Closer to You (feat. Major Lazer)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002s1x2j4CZQTY.ogg?guid=5582005600&vkey=E51DAFB5FF43B43E0CA452F76A19F6AE0D28E739B66055B5E4D9EF1150BA87A078AA35C22B0D7A0181167429FDC25EBDA291C2D99BF3034C__v21589e1ae&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Seven (feat. Latto) - Explicit Ver.",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004BhGSj2VKyqj.ogg?guid=5443104160&vkey=BB4AA4E1F1B28D9FD1F43DE043EEDF07C149192A7A6DF3AF89199242A04964B58DF8505EEEE9F2C5A3BF2C2801BCB5A510F3789CFBCC1737__v2b93282c&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Standing Next to You",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001nl5Gq0fnfnN.ogg?guid=3104567850&vkey=D88ECD237A5243A100F0693C301490B257DF9EADC0AC279D0798423C674FD5B917E28280CFFC08E2B22CF05D52110DF66DF7B62F7EAE9A27__v21ea058be&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Yes or No",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001jjzyN4e4tZ1.ogg?guid=1818324512&vkey=D64A0ACB5F641FFDB6BF2CED6F52DC54AE0DA4AF201BB5EC328AC5F0784691D9A1365D7AC8FC1C5E3FF798D4BD62CD68669B389EAD1B3004__v21589e1ae&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Please Don't Change (feat. DJ Snake)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004FD2hq4HQuSx.ogg?guid=9894939790&vkey=3642F84D34FD1E035DEF47C8E61D2BB823EEEF06A190452362596679D23F0E529DC5979C561CC4EF527B9821869FAE142B16AE504EED2A93__v21589e1ae&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Hate You",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004cVdLj3MVza2.ogg?guid=4811868537&vkey=2177A4936E72B5402A1BCAA07F5EBC00D9C74C60BAD25D589991576794DFC068C2E03A183318651EC3C808DBF84ED57BCAB8ED253F985CDD__v21ebdc51d&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Somebody",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004DhqsQ03dvob.ogg?guid=6382698550&vkey=200A1FBD763BB28EB2B64E146414057A422EBFD787246B7460B30EA69FA5D2EFA61ABAFBA697E8E26EF5948A515E78D049045501D28F870F__v21ea05a35&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Too Sad to Dance",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003khDza1am4iX.ogg?guid=3273199608&vkey=C4A6A33D726AB668748448ECF462935926150DE171344383BA61FC59238910E2A8AEAA11AF3060AE9DD0F553B6469D50667AE7EEAAFFB361__v21ea05a35&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Shot Glass of Tears",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000147zG748kJb2.ogg?guid=5341693720&vkey=CB1921BF0A0D130B79E1D7CFB826900FA16D687462A250696D9DAD116044C6F8FDEBE1F0652779927F333431D747AA190C4CA3EDD14F2901__v215257f0b&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Standing Next to You - USHER Remix",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O40000185PVJ1sDXe9.ogg?guid=2945492181&vkey=8D85F8308E34DC80D3084DEC98E8604A68A6695FA1BBD03E9D7555B632A2B8D35FC873E0B10397E854C1C12AC24BFEB08B8897D0A017E1F8__v2b93282c&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Bonus Track"
+    }
+  ]
+}
