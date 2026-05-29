@@ -1,0 +1,66 @@
+{
+  "Album": "aespaLEMONADE",
+  "Source": "Created by Blue Bubbles",
+  "Created Date": "20260529_2:22下午",
+  "Created User": "函桉",
+  "Mesh Type": "有CD",
+  "SideTitle": "LEMONADE - The 2nd Album",
+  "Introduction": "",
+  "Form": {
+    "AlbumTitle": "LEMONADE - The 2nd Album",
+    "AlbumCover": "https://blue-bubbles.top/ocean/https:/image.bugsm.co.kr/album/images/1000/41471/4147162.jpg?tiny_hanan",
+    "AlbumImage": [],
+    "Songs": [
+      {
+        "SongTitle": "WDA (Whole Different Animal) (Feat. G-DRAGON)",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/WDA%20(Whole%20Different%20Animal)%20(Feat.%20G-DRAGON).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "LEMONADE",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/LEMONADE.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "SHAKIN'",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/SHAKIN'.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Can't Help Myself",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/Can't%20Help%20Myself.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Camouflage",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/Camouflage.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Bite",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/Bite.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Switchblade (Feat. Ty Dolla $ign)",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/Switchblade%20(Feat.%20Ty%20Dolla%20%24ign).mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "Roll",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/Roll.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "My Plan",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/My%20Plan.mp3",
+        "Disc": "Full Album"
+      },
+      {
+        "SongTitle": "'Til We Die",
+        "SongURL": "https://blue-bubbles.top/Album/aespaLEMONADE/'Til%20We%20Die.mp3",
+        "Disc": "Full Album"
+      }
+    ]
+  }
+}
