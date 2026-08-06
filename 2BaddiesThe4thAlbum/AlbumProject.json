@@ -1,0 +1,87 @@
+{
+  "Album": "2BaddiesThe4thAlbum",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "2 Baddies - The 4th Album",
+  "MeshType": "无CD",
+  "SideTitle": "2 Baddies - The 4th Album",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/e8/d1/f7/e8d1f7702df3bafd32640c3873e73f38.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Faster",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000O6ywt0ab2H5.ogg?guid=1938410652&vkey=0C58677123E4A4D2F1D8D6345630159D4B186ED5CF79A604A39F21811DE0BAB3EAA6FDC2EE2DA3BD4E0CB5FD383466F6E88DD8A0515E88F8__v2150283a4&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "疾驰 (2 Baddies)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001Z7ru01M6ss2.ogg?guid=6265715981&vkey=3ED1DCB397C4C757DD48CC7D29568E22899D3BEFAC55A91BD78C8EDFB6FB35698B3A269F13F002D92A5890F615A1F32151F2C2ED08916414__v2b9323f3&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Time Lapse",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000aYlNi2I3grV.ogg?guid=9792331252&vkey=D6A13D505462C6AE358881AA8F07CE52065CA3AAAF44F9A27E47274AF4E0C7994DFF2A6B270FD6750DC99397211A6A898C51C7D24E4C2F7C__v21e297a32&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "迫降 (Crash Landing)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004FhJ520ehYDe.ogg?guid=7743526568&vkey=14EDF0C8702907ADFEAF6395583B568EF30A3E77DD3B4EFEC3F6CC2152FDCA360837A92715A237B2DAA3A88D05F4DEC93FCE527161247357__v2b9323f3&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Designer",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002fsOQK0kRjs4.ogg?guid=4336168352&vkey=D736E206F6D51BF247A6F0220B3C3D730E1121482E385272CF32A1A1BDAC8BEB8E75656BBD511F9AA39E09397296B2098EC46AD95142DAC7__v215df3be7&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "波光 (Gold Dust)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000Kctfj1Paag6.ogg?guid=4991361999&vkey=46D64091D02EA89CB42D04046D2F945F71AEDE033700190CDE45710D9E47EB9837C3C485BCA188DC6F5AD0579FD6A232F87205B18539B039__v215df3fa1&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "黑白电影 (Black Clouds)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002Ya42t3RVlUw.ogg?guid=4115836054&vkey=6C8246BA9BD539750355E3FC6C381163A3439517992CC0904B8455144B215FD7EA54565208BA28FD5C778968EC0DA4C4EBFA552CB94B37EF__v21589efa4&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Playback",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001o09BJ1llTri.ogg?guid=1302803785&vkey=00E81868AFA006A76CB4E72AB7FE1FB228DDBEEABA4BFE8DDD6E9D832CB2017C99951DDF6F7541EBD222CF7A8917F817BF6AE50DC7AA968A__v21530b22d&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Tasty (貘)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000jnxdn4LrVCF.ogg?guid=5888679434&vkey=0E6EE1B08DE08C04D9632EBBB68495CBD125A5B589C32AEE2D4C83F46EEF8367C33D8513A85110DD4B60BE1020B44338BD7C317AE2D98231__v215df3be7&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Vitamin",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000034P2NS10nHWP.ogg?guid=1012151526&vkey=95E6CF60E51E2146B0173F302C66A91E82A5265017FAB52C3F50C9B7745228043C03679E554504A440A7FB232C2FDD2CA26FE72A92C73413__v2b9323f5&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "LOL (Laugh-Out-Loud)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001D4DsN3Wlu7l.ogg?guid=1276825236&vkey=00B81E81284B107C8DC540E42358BA918BF210874765B4C6F786F891828DC502C39FD4DD7B724CC6C839A6F80FE1AEF20C99601994B6D6B6__v2150283a4&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "1, 2, 7 (Time Stops)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400004g8bA34JBJX4.ogg?guid=4649753679&vkey=C2040301B5B33CC3176F7E80EC3C926D8BD34738EE8A3016AE99E1B03EE6A0992A021AD3DC6094C05D0F4392DBB5C4C660555AED81EA45B5__v21530b213&uin=3337423438&fromtag=120532",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
