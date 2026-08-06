@@ -1,0 +1,93 @@
+{
+  "Album": "NCT127the2ndalbum",
+  "CreatedUser": "函桉",
+  "AlbumTitle": "NCT #127 Neo Zone – The 2nd Album",
+  "MeshType": "无CD",
+  "SideTitle": "NCT #127 Neo Zone",
+  "Introduction": "",
+  "CoverUrl": "https://i.pinimg.com/736x/85/75/a1/8575a1ec7daf74b459811b64c14ef5a9.jpg",
+  "SlidesUrls": [],
+  "Discs": [
+    "Full Album"
+  ],
+  "Songs": [
+    {
+      "fileName": "Elevator (127F)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002Nh6pg1ciK63.ogg?guid=8537727680&vkey=246A35DBCA11C6CE6C78FD46B0F1148FEC5D0669154409E7A2B1526A73C5821AB59BB24558B43548DCAA1F6045EF50F2512BFCCC44EEAC8C__v2b9323f5&uin=3337423438&fromtag=120532&src=O400001ckD191GYfmd.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "영웅 (英雄; Kick It)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000021pILD31MDpX.ogg?guid=1531701998&vkey=DD7D27EBB79B07020D559316693707FC6B4546EBDDC6120E7592EE0922B99F9689150D08110120EF343C136A224A470A141DC07EF4DDCF13__v21530b213&uin=3337423438&fromtag=120532&src=O400003nMGni4aqfMT.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "꿈 (Boom)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003SkvQP33WSo5.ogg?guid=6160427076&vkey=C0B4725AA055488863B92A2B149DCC50B7594F7E9674911564E34E6F75356FC82B5C4A8F5904272828A6913514941D9ED83300DA2FFEA76E__v21530b22d&uin=3337423438&fromtag=120532&src=O400002wZbex0SnArk.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "낮잠 (Pandora's Box)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001Nq8Jb2KXQTG.ogg?guid=5705018241&vkey=5E28CB95D046D5C03C3DF78356A7FB22EBB75806BA50E88715A0D41EFD77893EE8AAB6869215AD8FB4EA06E7B3E05B6DB95A44220745D61F__v215df3be7&uin=3337423438&fromtag=120532&src=O40000489CYa2SpxpE.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Day Dream (白日梦)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002GSFM01qIigU.ogg?guid=6726349442&vkey=1237F6CE34B9E817C4E4920DDD2A428F94BA67ACEC537DB68A721445F14233A22DEB5CF37802F20F6DC8F725B7C21EE0E8A27FBE8C4F1E44__v21530b213&uin=3337423438&fromtag=120532&src=O400001KD1nP0S3Ql1.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Interlude: Neo Zone",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002cswwW4WPh8v.ogg?guid=1791584080&vkey=B26C046D03A2A8840C1E0F02A803118318D6F9BA2AA1774CD2D6798C45E5BE44D0F3545555B88B9E40A4B20EF45DD58D4F8882A44CCBE8F7__v215df3be7&uin=3337423438&fromtag=120532&src=O400001DlUOA4RESdY.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "뿔 (MAD DOG)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003kjK3t2BD25a.ogg?guid=1730130016&vkey=4E830B4E3CFA820B82871D4DDC0432E7AF6CC2E43906F528B7A8289BC426A4B53565CECEC9AFB1AABD5A33A8B264224D9109CC315F7CF467__v2150283a4&uin=3337423438&fromtag=120532&src=O400000BrQ0V0ZOs5B.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Sit Down!",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400001immRb4Hkak1.ogg?guid=158720000&vkey=46D926BDC1F6136C9BE4836A64E3558384007D335C5BDBA83BA3659B934EFA1DFD9107E84178A51B40780C28525CE582346A4630579D84DB__v21530b22d&uin=3337423438&fromtag=120532&src=O400001P5lMG3hCRBU.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "메아리 (Love Me Now)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400000crMPM4IDIQh.ogg?guid=3134493194&vkey=3649A72BF8D2D22CB3F23D03B1F518686891057A45EEBC6E617AD4B48BA091819D2E02F46E98D1AE03DEF324CF89727B46AAE358C46014D2__v21589efa3&uin=3337423438&fromtag=120532&src=O400001N9DrG371j0w.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "우산 (Love Song)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400003YqC1K2TJDCp.ogg?guid=9760605660&vkey=2915427D15A033E742447F75B9852D5A958B056446D5A9B445622D1784D76337999C71531B167AF6A029833DD31A6166D55BD5079090CEE8__v2b9323f3&uin=3337423438&fromtag=120532&src=O400001hO9VX0ZqjT6.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "백야 (White Night)",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000031taVM063ES6.ogg?guid=2587814770&vkey=909984B8ACA4AC29BC0C2174BA568FA7C8773235BEFE962BB29E82AE60FEB1C17BD67CCFB01B08103B78093197AC32EF672D17108223F5D1__v21530b22d&uin=3337423438&fromtag=120532&src=O400003EPIia3oBnhK.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Not Alone",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O4000011E2mS2mEFKD.ogg?guid=5529343136&vkey=4E11788C15D3F3A6429369B794AFDEDF28B1DEA2F036925F6CEA3FF49BD7F4552EC0DDA27B11EF5FCB3D00113BF4BF7E2F670728AD3D7999__v21e297a32&uin=3337423438&fromtag=120532&src=O400003FXHUn29YduT.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    },
+    {
+      "fileName": "Dreams Come True",
+      "oggUrl": "https://ws6.stream.qqmusic.qq.com/O400002iPsDc1yw2kF.ogg?guid=330991560&vkey=19B3BD053C59D52E8D75CD7238A46825AC29E0BC4E71A0CBBEC1B3AAB16873D82D99F4611FC4E19441D57B53BEEBCD58CD8EFD40E85447A3__v21530b213&uin=3337423438&fromtag=120532&src=O4000015BjBH4QGEuo.ogg",
+      "format": "ogg",
+      "disc": "Full Album"
+    }
+  ]
+}
